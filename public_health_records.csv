@@ -1,0 +1,1001 @@
+record_id,age_group,age,weight,gender,region,smoking_status,exercise_frequency,bmi,blood_pressure,diabetes,hypertension,cholesterol_level,glucose_level,visit_date
+PH001,18-25,24,58,Female,West,Non-Smoker,Rarely,21.1,112.3,False,False,169.2,64.7,2026-08-04
+PH002,60+,70,53,Female,East,Non-Smoker,Weekly,18.2,130.0,False,True,245.5,55.0,2025-03-05
+PH003,60+,62,81,Female,West,Former Smoker,Weekly,30.5,140.4,False,True,209.9,113.0,2025-01-09
+PH004,46-60,47,113,Female,West,Non-Smoker,Rarely,35.7,124.7,False,True,176.7,104.6,2026-04-11
+PH005,46-60,47,70,Female,East,Smoker,Daily,22.5,121.3,False,False,206.6,86.4,2022-05-26
+PH006,60+,76,51,Female,South,Former Smoker,Rarely,20.3,116.6,False,False,244.8,66.4,2024-08-12
+PH007,18-25,23,56,Male,East,Non-Smoker,Weekly,16.0,105.8,False,False,115.6,57.3,2023-07-11
+PH008,60+,65,70,Female,South,Smoker,Daily,23.5,124.2,False,True,171.3,87.0,2025-03-18
+PH009,26-35,31,53,Female,East,Smoker,Daily,23.2,111.7,False,False,176.0,76.2,2026-01-18
+PH010,18-25,24,67,Male,West,Non-Smoker,Rarely,22.8,107.2,False,False,158.0,85.9,2022-05-14
+PH011,46-60,53,78,Male,South,Smoker,Weekly,25.4,124.0,False,False,183.7,103.3,2022-10-02
+PH012,60+,84,96,Female,East,Non-Smoker,Never,28.4,123.8,True,False,160.9,139.8,2026-07-14
+PH013,60+,68,76,Male,North,Smoker,Rarely,26.9,121.7,False,True,239.3,99.6,2024-05-03
+PH014,60+,69,80,Male,East,Non-Smoker,Rarely,24.2,138.2,False,False,147.3,112.9,2023-07-01
+PH015,60+,66,60,Male,South,Non-Smoker,Weekly,19.9,145.0,False,False,175.3,76.6,2022-09-21
+PH016,60+,71,69,Male,South,Non-Smoker,Rarely,28.3,110.1,True,False,222.1,77.6,2023-09-07
+PH017,46-60,52,64,Male,East,Non-Smoker,Never,26.8,102.9,False,False,183.5,91.0,2022-01-09
+PH018,26-35,26,97,Female,North,Smoker,Daily,28.2,103.1,False,False,159.6,68.8,2023-01-22
+PH019,60+,75,97,Male,East,Non-Smoker,Weekly,27.8,122.9,False,False,155.9,103.1,2022-11-14
+PH020,46-60,48,57,Female,East,Non-Smoker,Weekly,18.5,118.9,False,False,166.6,71.3,2022-05-27
+PH021,46-60,52,67,Female,South,Non-Smoker,Weekly,18.5,116.6,False,True,153.2,55.0,2026-08-08
+PH022,36-45,43,76,Male,North,Smoker,Rarely,22.3,115.6,False,True,191.6,113.7,2025-10-01
+PH023,26-35,30,65,Male,South,Smoker,Weekly,20.1,114.1,False,False,139.3,73.3,2026-06-19
+PH024,60+,81,72,Female,North,Non-Smoker,Weekly,27.7,118.0,False,False,218.3,79.5,2023-02-22
+PH025,60+,71,97,Male,South,Non-Smoker,Weekly,26.0,118.8,False,True,193.3,112.8,2023-05-16
+PH026,60+,61,93,Male,East,Non-Smoker,Daily,29.1,121.0,True,False,195.6,90.9,2023-05-06
+PH027,36-45,45,73,Female,North,Non-Smoker,Weekly,26.2,96.9,False,False,221.5,110.2,2024-08-26
+PH028,60+,73,71,Other,East,Non-Smoker,Rarely,26.4,109.6,False,True,178.9,89.3,2022-11-12
+PH029,46-60,55,94,Female,North,Non-Smoker,Rarely,30.5,108.3,False,True,169.6,94.5,2023-02-13
+PH030,46-60,48,61,Male,West,Non-Smoker,Weekly,26.5,123.8,False,False,167.2,100.1,2026-08-18
+PH031,46-60,48,84,Female,East,Smoker,Rarely,25.8,120.6,False,False,186.4,102.8,2023-09-03
+PH032,26-35,33,79,Female,South,Non-Smoker,Daily,30.7,121.3,False,False,179.9,109.6,2025-09-16
+PH033,18-25,24,78,Male,East,Non-Smoker,Weekly,25.0,87.3,False,False,149.1,86.1,2023-02-02
+PH034,46-60,55,64,Female,North,Non-Smoker,Weekly,23.2,98.5,False,True,124.5,99.6,2026-06-01
+PH035,60+,78,66,Male,North,Smoker,Never,23.2,131.5,False,False,183.4,107.8,2025-04-18
+PH036,18-25,22,76,Male,West,Non-Smoker,Rarely,28.5,85.0,False,False,185.9,95.2,2026-02-03
+PH037,60+,76,90,Female,West,Former Smoker,Rarely,31.0,140.3,False,True,201.6,105.8,2024-06-14
+PH038,60+,74,92,Male,North,Smoker,Daily,24.3,103.9,False,False,232.6,75.7,2026-04-21
+PH039,36-45,36,107,Male,South,Non-Smoker,Daily,30.0,124.2,False,False,237.3,106.6,2023-09-21
+PH040,46-60,60,54,Female,North,Non-Smoker,Rarely,17.2,101.6,False,False,196.9,84.4,2024-04-10
+PH041,26-35,29,72,Other,South,Non-Smoker,Weekly,24.3,119.9,False,False,212.0,81.3,2022-04-17
+PH042,60+,69,88,Female,South,Non-Smoker,Never,26.5,156.6,False,True,211.5,118.8,2022-10-23
+PH043,60+,65,77,Female,South,Non-Smoker,Rarely,22.4,92.0,False,False,231.6,71.3,2025-08-30
+PH044,36-45,42,91,Other,East,Former Smoker,Weekly,34.8,128.1,False,False,242.3,130.8,2023-07-21
+PH045,18-25,22,75,Male,North,Former Smoker,Rarely,25.5,87.5,False,False,199.0,87.5,2022-06-26
+PH046,60+,84,56,Male,West,Smoker,Never,25.0,132.0,False,True,223.2,105.4,2023-05-23
+PH047,46-60,48,85,Male,East,Non-Smoker,Weekly,24.6,111.7,False,False,174.6,86.2,2023-09-04
+PH048,60+,78,66,Male,West,Non-Smoker,Rarely,17.1,117.7,False,False,180.6,62.5,2025-05-28
+PH049,60+,64,70,Female,North,Smoker,Never,23.5,110.5,False,False,185.2,91.9,2022-06-06
+PH050,60+,70,61,Male,East,Non-Smoker,Weekly,28.6,131.9,True,False,210.3,108.1,2022-02-14
+PH051,60+,69,78,Male,West,Former Smoker,Never,24.4,103.7,False,False,167.2,106.6,2025-06-09
+PH052,26-35,31,55,Male,North,Smoker,Daily,21.0,123.0,False,False,174.7,80.1,2022-09-04
+PH053,36-45,42,83,Male,West,Non-Smoker,Rarely,31.0,112.9,False,False,120.0,67.6,2023-12-29
+PH054,46-60,49,100,Female,South,Non-Smoker,Rarely,31.1,104.0,True,False,236.8,79.0,2025-03-30
+PH055,46-60,51,85,Male,West,Non-Smoker,Rarely,27.7,134.8,False,False,178.9,128.2,2024-06-10
+PH056,18-25,20,62,Male,South,Non-Smoker,Weekly,22.6,103.7,False,False,180.9,66.6,2022-08-03
+PH057,46-60,55,67,Male,West,Former Smoker,Rarely,24.8,137.0,False,False,223.8,115.4,2025-06-06
+PH058,26-35,28,64,Female,North,Non-Smoker,Daily,21.1,119.0,False,False,177.6,68.5,2022-03-25
+PH059,60+,68,57,Female,South,Smoker,Daily,20.3,110.3,False,False,232.6,87.4,2023-02-07
+PH060,60+,64,51,Female,South,Smoker,Weekly,20.1,116.9,False,False,155.8,98.3,2022-07-09
+PH061,60+,80,63,Male,North,Former Smoker,Weekly,22.2,122.3,True,False,255.8,83.3,2024-06-07
+PH062,60+,68,62,Male,South,Non-Smoker,Weekly,20.2,132.8,False,False,212.4,113.8,2025-04-12
+PH063,36-45,42,52,Female,South,Non-Smoker,Weekly,17.9,111.7,False,False,176.1,82.0,2025-01-31
+PH064,60+,83,66,Female,North,Smoker,Never,27.6,131.1,False,True,246.1,111.3,2022-08-30
+PH065,36-45,45,86,Female,East,Non-Smoker,Weekly,25.5,111.6,False,True,147.6,88.8,2023-08-19
+PH066,36-45,40,62,Female,East,Former Smoker,Weekly,31.9,117.0,False,True,178.3,111.3,2022-09-11
+PH067,60+,79,60,Female,West,Non-Smoker,Weekly,21.7,134.6,False,True,228.1,118.3,2023-08-18
+PH068,36-45,43,71,Male,East,Former Smoker,Daily,26.0,113.7,False,False,128.0,91.3,2023-02-04
+PH069,18-25,23,81,Male,North,Non-Smoker,Rarely,26.8,104.3,False,False,189.9,115.9,2025-07-07
+PH070,46-60,49,75,Female,North,Non-Smoker,Weekly,23.4,107.1,False,False,194.2,81.5,2025-07-26
+PH071,60+,72,96,Male,South,Former Smoker,Daily,27.9,117.2,False,True,247.8,113.9,2025-11-20
+PH072,26-35,30,80,Female,South,Non-Smoker,Never,30.0,97.7,False,False,136.1,103.6,2022-12-14
+PH073,46-60,49,86,Male,North,Non-Smoker,Rarely,26.9,107.8,False,False,228.5,79.8,2022-01-24
+PH074,26-35,26,75,Female,West,Former Smoker,Rarely,24.7,124.3,False,False,157.1,90.7,2022-03-03
+PH075,60+,64,55,Female,East,Non-Smoker,Rarely,24.0,115.6,False,False,172.7,94.9,2026-01-02
+PH076,46-60,50,80,Female,East,Non-Smoker,Never,21.0,119.3,False,True,142.4,74.3,2026-04-20
+PH077,36-45,40,51,Female,North,Former Smoker,Weekly,21.4,85.0,False,False,143.2,91.0,2023-01-03
+PH078,26-35,33,72,Female,West,Smoker,Rarely,22.9,117.6,False,False,194.3,88.5,2026-02-28
+PH079,46-60,56,65,Female,North,Non-Smoker,Rarely,20.8,111.3,False,False,147.4,87.1,2024-07-07
+PH080,60+,63,81,Male,South,Smoker,Weekly,26.3,117.2,False,False,218.4,97.1,2022-11-17
+PH081,60+,81,81,Female,South,Non-Smoker,Weekly,29.5,129.1,False,False,179.2,105.5,2023-06-27
+PH082,46-60,47,68,Female,West,Smoker,Daily,20.7,108.1,False,False,151.3,80.6,2023-04-06
+PH083,26-35,28,63,Male,South,Non-Smoker,Rarely,26.7,86.6,False,False,161.0,93.0,2025-08-17
+PH084,60+,74,62,Male,North,Smoker,Rarely,21.2,131.6,False,False,204.7,83.1,2022-11-23
+PH085,46-60,60,66,Female,South,Non-Smoker,Rarely,24.2,119.6,False,False,176.3,134.1,2022-11-14
+PH086,60+,65,58,Female,South,Non-Smoker,Weekly,21.6,112.8,True,False,183.6,70.3,2025-06-01
+PH087,18-25,24,85,Male,North,Non-Smoker,Daily,27.0,98.5,False,False,194.3,81.8,2023-06-09
+PH088,36-45,39,74,Male,North,Non-Smoker,Weekly,21.6,92.9,False,False,203.9,78.2,2023-03-10
+PH089,60+,70,81,Male,North,Non-Smoker,Weekly,28.7,125.9,False,True,184.3,133.8,2025-11-01
+PH090,60+,74,84,Male,South,Non-Smoker,Never,25.7,139.8,False,True,161.5,79.7,2026-06-04
+PH091,46-60,47,71,Female,South,Non-Smoker,Never,24.0,115.4,False,False,181.3,97.4,2024-08-21
+PH092,60+,72,57,Male,South,Former Smoker,Never,21.7,103.1,False,True,198.5,96.9,2025-12-06
+PH093,60+,75,76,Male,East,Non-Smoker,Rarely,26.6,125.5,False,False,151.2,106.0,2025-12-29
+PH094,36-45,44,86,Female,North,Smoker,Never,30.5,119.9,False,True,171.0,118.6,2024-10-17
+PH095,60+,79,69,Male,West,Former Smoker,Weekly,25.9,133.2,True,False,172.7,119.2,2025-12-09
+PH096,36-45,37,106,Male,West,Non-Smoker,Daily,33.9,125.0,True,False,181.8,96.9,2022-01-16
+PH097,26-35,34,93,Female,North,Smoker,Daily,30.5,85.0,False,False,171.2,100.8,2022-03-03
+PH098,60+,64,54,Female,South,Non-Smoker,Weekly,23.2,123.3,False,False,204.0,65.6,2026-03-13
+PH099,60+,61,54,Other,North,Smoker,Weekly,23.2,108.4,False,True,148.2,94.4,2022-09-01
+PH100,26-35,27,83,Female,South,Non-Smoker,Daily,26.5,93.9,False,False,131.0,78.4,2025-06-15
+PH101,60+,74,61,Male,South,Non-Smoker,Never,23.2,118.0,False,False,178.4,93.0,2023-12-30
+PH102,26-35,31,91,Female,North,Smoker,Daily,29.4,120.5,False,False,185.2,70.3,2025-09-28
+PH103,60+,72,93,Female,North,Non-Smoker,Never,28.2,105.5,False,False,152.3,108.9,2025-02-27
+PH104,18-25,18,66,Female,South,Former Smoker,Rarely,26.9,115.1,False,False,155.6,63.5,2022-05-05
+PH105,60+,72,68,Female,East,Non-Smoker,Rarely,28.4,132.1,False,False,182.0,105.3,2023-08-08
+PH106,60+,71,121,Female,South,Non-Smoker,Rarely,32.7,127.4,True,False,187.1,91.0,2025-05-13
+PH107,60+,71,78,Female,West,Non-Smoker,Weekly,25.2,111.3,False,False,193.4,85.4,2026-05-17
+PH108,60+,63,71,Male,South,Former Smoker,Rarely,25.3,107.9,False,False,167.9,113.9,2025-10-27
+PH109,46-60,50,80,Female,West,Non-Smoker,Daily,30.8,130.8,False,True,229.9,110.8,2026-03-27
+PH110,60+,65,85,Male,North,Smoker,Never,30.8,110.0,False,True,217.3,122.4,2026-07-17
+PH111,36-45,36,58,Female,East,Non-Smoker,Weekly,23.2,121.1,False,False,151.8,110.7,2026-03-31
+PH112,60+,71,82,Female,West,Non-Smoker,Weekly,24.5,118.5,True,False,190.9,85.5,2024-10-03
+PH113,46-60,55,70,Female,North,Smoker,Rarely,26.3,119.2,False,False,198.3,118.8,2023-08-06
+PH114,46-60,49,93,Other,West,Non-Smoker,Rarely,27.0,97.3,False,False,217.6,74.0,2024-05-30
+PH115,46-60,52,53,Male,South,Smoker,Weekly,18.8,111.8,False,False,168.0,95.5,2025-10-11
+PH116,46-60,56,49,Female,South,Former Smoker,Rarely,19.3,118.7,False,False,198.3,78.6,2024-01-08
+PH117,18-25,20,58,Female,East,Non-Smoker,Daily,20.8,88.3,False,False,167.1,66.3,2025-12-11
+PH118,26-35,27,42,Male,East,Smoker,Rarely,21.4,114.0,False,False,221.0,92.0,2025-05-01
+PH119,26-35,34,63,Male,North,Smoker,Weekly,21.8,111.7,False,False,218.2,99.0,2022-12-29
+PH120,18-25,25,78,Male,West,Non-Smoker,Weekly,27.2,102.5,False,False,180.9,104.7,2026-05-16
+PH121,46-60,47,79,Female,East,Non-Smoker,Daily,23.8,122.4,False,False,171.7,93.9,2026-01-07
+PH122,60+,63,56,Male,West,Smoker,Weekly,25.3,97.5,False,False,210.6,98.5,2024-11-05
+PH123,60+,62,67,Other,South,Non-Smoker,Weekly,19.4,117.5,False,True,173.9,95.3,2022-12-03
+PH124,46-60,50,75,Male,East,Smoker,Weekly,22.6,133.7,True,False,235.6,94.1,2023-01-30
+PH125,60+,76,94,Female,South,Non-Smoker,Daily,27.0,139.5,False,False,195.2,110.0,2025-12-26
+PH126,46-60,56,79,Male,West,Non-Smoker,Daily,27.0,122.4,False,False,174.6,100.6,2022-01-31
+PH127,18-25,23,73,Female,West,Non-Smoker,Weekly,21.5,101.1,False,False,154.9,94.6,2024-04-18
+PH128,60+,70,60,Male,West,Non-Smoker,Daily,25.2,113.5,False,True,154.7,73.5,2024-12-09
+PH129,46-60,57,113,Female,East,Smoker,Rarely,34.7,124.2,False,False,221.2,107.4,2023-02-08
+PH130,60+,61,71,Female,West,Smoker,Never,26.6,128.2,False,True,174.3,77.3,2026-02-08
+PH131,46-60,56,50,Female,South,Smoker,Weekly,21.6,107.9,False,False,220.3,93.6,2024-06-24
+PH132,46-60,55,65,Female,South,Non-Smoker,Never,26.0,125.3,False,False,148.2,120.4,2022-04-25
+PH133,18-25,24,75,Male,West,Former Smoker,Daily,25.2,131.1,False,False,176.2,80.6,2023-07-10
+PH134,46-60,56,64,Male,North,Former Smoker,Daily,24.2,115.1,False,False,214.8,95.2,2023-11-21
+PH135,60+,72,79,Male,East,Non-Smoker,Rarely,25.4,106.5,False,False,129.4,109.9,2023-01-22
+PH136,36-45,38,44,Male,North,Non-Smoker,Rarely,19.4,92.2,False,False,227.1,55.0,2026-06-19
+PH137,46-60,58,46,Female,East,Non-Smoker,Rarely,21.5,122.7,False,False,168.1,81.8,2023-09-18
+PH138,18-25,20,85,Female,South,Non-Smoker,Daily,23.9,104.8,False,False,173.6,90.4,2024-05-19
+PH139,36-45,41,83,Female,South,Non-Smoker,Rarely,24.8,121.8,False,False,194.1,55.0,2024-07-17
+PH140,46-60,47,56,Female,South,Non-Smoker,Weekly,22.1,105.8,False,False,197.3,73.6,2023-01-18
+PH141,60+,84,71,Female,South,Former Smoker,Weekly,24.1,132.7,False,False,199.9,115.8,2024-09-11
+PH142,26-35,32,84,Female,South,Non-Smoker,Daily,24.8,107.8,False,False,202.8,103.9,2023-09-06
+PH143,36-45,36,95,Male,South,Non-Smoker,Never,30.4,107.2,False,False,197.7,103.9,2022-01-18
+PH144,36-45,45,73,Male,East,Non-Smoker,Daily,24.1,108.3,False,True,228.0,104.0,2023-12-09
+PH145,60+,85,93,Female,West,Non-Smoker,Rarely,27.2,113.2,False,True,211.0,107.4,2024-10-09
+PH146,60+,76,63,Female,East,Former Smoker,Rarely,23.5,142.8,False,False,243.8,105.0,2022-07-23
+PH147,18-25,20,83,Male,East,Smoker,Rarely,27.9,110.7,False,False,209.7,86.2,2025-09-13
+PH148,26-35,33,81,Female,West,Former Smoker,Rarely,27.4,119.0,False,False,127.8,94.8,2025-02-19
+PH149,60+,73,83,Female,West,Non-Smoker,Rarely,29.1,118.6,False,False,267.6,95.0,2023-06-22
+PH150,18-25,21,77,Male,North,Smoker,Daily,27.5,100.1,False,False,168.3,109.5,2024-10-23
+PH151,60+,76,81,Male,East,Non-Smoker,Daily,27.0,121.1,False,True,234.8,124.7,2023-06-11
+PH152,36-45,37,72,Female,North,Smoker,Weekly,24.1,125.5,False,False,186.6,109.7,2022-09-24
+PH153,60+,80,65,Female,North,Non-Smoker,Weekly,25.5,117.9,False,False,222.3,94.5,2024-11-25
+PH154,36-45,37,96,Male,West,Non-Smoker,Daily,29.0,104.8,False,False,162.4,82.0,2022-04-06
+PH155,46-60,47,56,Female,North,Non-Smoker,Daily,21.8,113.1,False,False,194.1,106.8,2022-01-29
+PH156,60+,63,64,Male,West,Former Smoker,Weekly,22.2,121.7,False,False,175.6,100.0,2023-03-17
+PH157,26-35,26,72,Female,West,Smoker,Daily,25.3,129.4,False,False,227.6,93.2,2022-10-30
+PH158,46-60,55,82,Male,West,Non-Smoker,Daily,26.2,121.1,False,False,197.0,86.7,2024-04-30
+PH159,46-60,52,50,Female,East,Non-Smoker,Never,23.2,121.0,True,False,206.3,97.4,2022-10-15
+PH160,60+,71,81,Male,West,Smoker,Weekly,24.2,130.9,False,True,137.3,80.3,2023-02-28
+PH161,60+,85,71,Male,North,Non-Smoker,Never,26.3,113.0,False,False,192.9,112.4,2022-06-19
+PH162,60+,63,61,Female,West,Non-Smoker,Never,17.4,101.8,False,False,188.4,105.3,2026-03-18
+PH163,36-45,45,65,Male,North,Non-Smoker,Daily,23.6,100.3,False,False,184.3,114.4,2025-06-29
+PH164,36-45,45,73,Male,South,Non-Smoker,Rarely,24.8,98.6,False,False,206.5,102.5,2023-01-13
+PH165,46-60,46,96,Male,North,Former Smoker,Rarely,25.1,122.5,False,False,170.0,71.8,2022-07-28
+PH166,60+,73,89,Female,South,Non-Smoker,Rarely,31.4,129.6,False,True,198.7,110.9,2026-01-14
+PH167,36-45,39,69,Female,East,Former Smoker,Daily,19.7,108.3,False,False,204.4,114.9,2025-03-04
+PH168,26-35,29,63,Other,South,Non-Smoker,Daily,21.0,85.0,False,False,105.6,69.6,2026-03-17
+PH169,36-45,40,50,Male,West,Non-Smoker,Daily,16.0,127.4,False,False,183.7,76.6,2022-11-06
+PH170,18-25,19,70,Male,East,Non-Smoker,Rarely,23.5,95.1,False,False,159.5,105.3,2023-09-15
+PH171,18-25,25,83,Male,East,Non-Smoker,Never,25.0,130.4,False,False,147.3,97.0,2022-07-25
+PH172,18-25,24,63,Female,West,Non-Smoker,Rarely,23.4,90.3,False,False,179.9,122.2,2024-01-05
+PH173,60+,70,77,Other,South,Non-Smoker,Rarely,30.2,115.6,False,False,229.1,94.3,2022-10-09
+PH174,60+,67,82,Female,South,Smoker,Never,30.3,102.6,False,False,232.9,90.1,2022-01-08
+PH175,60+,65,77,Female,West,Non-Smoker,Rarely,25.8,123.6,True,False,184.0,116.1,2024-05-31
+PH176,46-60,49,66,Male,East,Non-Smoker,Daily,22.9,100.8,False,True,203.2,72.0,2026-08-25
+PH177,60+,66,97,Female,East,Non-Smoker,Rarely,29.8,111.3,False,False,217.2,101.0,2025-01-24
+PH178,26-35,28,86,Female,South,Non-Smoker,Weekly,24.4,93.1,False,False,170.7,86.5,2025-11-08
+PH179,60+,79,54,Male,North,Non-Smoker,Daily,21.1,128.3,False,False,167.5,109.2,2026-08-13
+PH180,46-60,52,47,Male,North,Former Smoker,Weekly,17.6,117.3,False,False,155.5,91.7,2022-08-11
+PH181,60+,81,60,Male,North,Non-Smoker,Never,24.8,143.3,True,False,215.6,106.6,2023-03-11
+PH182,26-35,28,108,Male,North,Former Smoker,Weekly,28.0,103.5,False,False,176.2,86.8,2024-12-04
+PH183,46-60,51,105,Male,East,Non-Smoker,Weekly,34.1,124.7,False,False,163.4,125.2,2025-11-24
+PH184,60+,65,78,Male,North,Smoker,Daily,24.8,107.6,False,False,149.3,156.5,2025-09-03
+PH185,46-60,51,52,Female,East,Non-Smoker,Daily,21.3,108.4,False,False,200.7,98.2,2025-06-15
+PH186,46-60,48,58,Male,West,Smoker,Daily,19.5,107.2,True,False,168.9,86.0,2023-06-26
+PH187,26-35,29,88,Male,West,Non-Smoker,Rarely,27.8,116.3,False,False,186.8,73.3,2023-09-25
+PH188,36-45,43,52,Female,South,Non-Smoker,Rarely,18.1,118.5,False,False,205.5,71.7,2022-05-19
+PH189,26-35,34,92,Female,North,Non-Smoker,Daily,26.8,122.7,False,False,141.4,89.2,2023-06-29
+PH190,36-45,38,113,Female,West,Former Smoker,Weekly,28.2,104.8,False,False,179.9,87.4,2022-09-28
+PH191,60+,64,68,Male,North,Smoker,Daily,26.3,133.8,False,True,193.2,98.0,2026-06-15
+PH192,46-60,60,60,Female,East,Non-Smoker,Daily,23.6,116.0,False,True,193.9,119.9,2022-06-08
+PH193,46-60,59,70,Male,East,Non-Smoker,Weekly,26.9,115.2,False,False,221.6,116.7,2023-09-23
+PH194,36-45,42,96,Male,North,Smoker,Rarely,26.2,108.7,False,False,152.9,90.9,2026-03-19
+PH195,60+,83,76,Female,East,Non-Smoker,Rarely,22.2,115.7,False,False,205.7,78.2,2026-07-16
+PH196,18-25,23,94,Female,North,Non-Smoker,Weekly,32.3,132.2,False,False,209.7,118.2,2023-10-16
+PH197,36-45,41,68,Female,North,Smoker,Weekly,23.0,117.1,False,False,180.8,87.5,2024-03-18
+PH198,26-35,26,73,Female,West,Non-Smoker,Daily,27.8,112.2,False,False,172.6,66.2,2024-06-26
+PH199,36-45,41,53,Female,West,Non-Smoker,Daily,16.0,102.2,False,False,179.3,88.4,2025-11-26
+PH200,60+,83,90,Male,South,Non-Smoker,Never,32.1,156.6,False,False,211.2,126.4,2024-06-27
+PH201,36-45,42,90,Male,West,Smoker,Rarely,31.7,135.3,False,False,213.0,65.1,2023-10-07
+PH202,60+,79,87,Male,West,Former Smoker,Never,27.1,116.7,False,False,209.9,90.4,2023-10-08
+PH203,46-60,51,85,Male,West,Former Smoker,Never,29.3,115.5,False,False,159.6,98.3,2025-01-30
+PH204,60+,65,80,Female,North,Smoker,Rarely,27.8,121.9,True,True,227.9,111.8,2025-12-19
+PH205,46-60,49,71,Male,South,Non-Smoker,Never,24.0,115.3,False,False,212.6,83.7,2022-05-13
+PH206,36-45,36,88,Female,East,Non-Smoker,Weekly,26.8,104.6,False,False,184.0,80.3,2025-08-26
+PH207,60+,69,78,Female,West,Non-Smoker,Daily,21.1,121.8,False,True,141.6,102.4,2024-04-13
+PH208,60+,83,70,Female,West,Non-Smoker,Daily,21.9,137.6,False,True,186.2,88.8,2022-09-09
+PH209,26-35,35,96,Male,South,Smoker,Daily,29.2,102.5,True,False,196.8,104.4,2022-06-17
+PH210,60+,70,82,Male,North,Smoker,Daily,28.6,113.9,True,False,170.8,86.3,2023-08-08
+PH211,26-35,35,58,Other,West,Former Smoker,Weekly,21.8,102.8,False,False,162.4,64.9,2023-03-07
+PH212,60+,66,73,Female,South,Non-Smoker,Rarely,22.4,112.4,False,False,144.5,104.2,2022-06-30
+PH213,60+,71,70,Female,South,Former Smoker,Rarely,23.1,141.1,True,False,203.6,98.7,2023-05-24
+PH214,46-60,48,66,Female,West,Non-Smoker,Weekly,27.6,127.3,False,False,188.5,110.5,2025-12-16
+PH215,60+,68,58,Female,East,Former Smoker,Daily,20.6,126.7,False,True,136.4,82.6,2025-05-29
+PH216,36-45,36,79,Male,South,Smoker,Rarely,27.0,112.6,False,False,198.8,81.2,2022-12-29
+PH217,18-25,23,76,Female,North,Smoker,Weekly,27.6,109.2,False,False,183.6,111.6,2025-03-14
+PH218,18-25,24,88,Male,South,Former Smoker,Daily,24.4,91.1,False,False,186.2,63.8,2024-02-23
+PH219,46-60,48,92,Female,West,Former Smoker,Weekly,29.0,126.1,False,False,174.7,117.6,2025-07-19
+PH220,60+,79,82,Female,South,Non-Smoker,Weekly,23.2,126.9,False,False,167.1,116.7,2023-03-05
+PH221,26-35,26,72,Female,East,Non-Smoker,Weekly,23.6,121.1,False,False,149.8,98.7,2022-04-18
+PH222,46-60,48,64,Male,South,Non-Smoker,Rarely,21.4,109.0,False,False,161.4,77.0,2023-06-27
+PH223,60+,65,77,Male,West,Non-Smoker,Rarely,29.8,121.3,True,False,193.0,91.4,2026-09-20
+PH224,26-35,31,66,Female,West,Smoker,Rarely,22.3,112.2,False,True,185.7,81.8,2024-08-21
+PH225,60+,67,78,Male,East,Former Smoker,Daily,26.3,130.4,False,False,183.6,79.4,2022-04-05
+PH226,36-45,38,61,Male,West,Non-Smoker,Rarely,25.2,95.4,False,False,165.7,76.4,2025-12-02
+PH227,60+,72,58,Male,East,Non-Smoker,Rarely,21.1,125.9,False,False,174.7,101.8,2024-07-31
+PH228,46-60,57,62,Male,South,Smoker,Daily,21.9,117.1,False,False,260.5,99.9,2025-07-07
+PH229,46-60,55,98,Male,East,Smoker,Rarely,31.3,112.6,False,False,179.2,88.0,2022-11-17
+PH230,26-35,30,80,Female,West,Non-Smoker,Weekly,25.3,86.5,False,False,159.3,99.5,2024-10-23
+PH231,46-60,49,55,Male,West,Non-Smoker,Weekly,20.3,109.2,True,False,267.7,92.7,2026-05-03
+PH232,60+,76,81,Male,North,Non-Smoker,Daily,25.8,138.6,False,True,203.3,122.7,2024-01-31
+PH233,18-25,19,69,Male,East,Smoker,Weekly,23.9,126.7,False,False,140.7,93.2,2022-03-09
+PH234,60+,69,74,Male,North,Former Smoker,Daily,39.3,135.5,True,False,228.9,134.7,2025-08-05
+PH235,46-60,51,71,Male,East,Non-Smoker,Daily,25.7,137.2,False,False,157.2,101.6,2025-06-19
+PH236,60+,66,79,Female,East,Former Smoker,Daily,23.2,117.4,False,False,210.4,108.7,2025-07-06
+PH237,60+,63,75,Male,South,Smoker,Never,32.7,138.1,False,False,199.3,88.2,2025-01-29
+PH238,46-60,47,50,Male,West,Non-Smoker,Weekly,16.8,102.4,False,False,158.3,78.4,2022-08-26
+PH239,36-45,38,91,Male,West,Non-Smoker,Weekly,24.9,105.7,False,False,222.2,89.8,2022-07-18
+PH240,46-60,60,87,Male,North,Non-Smoker,Weekly,32.9,116.4,False,False,210.3,103.6,2025-10-06
+PH241,26-35,27,78,Male,North,Non-Smoker,Never,26.2,86.7,False,False,202.1,96.6,2026-01-22
+PH242,46-60,57,42,Male,North,Smoker,Weekly,17.2,127.7,False,False,196.8,92.6,2022-05-17
+PH243,18-25,24,92,Female,West,Non-Smoker,Never,25.0,100.5,False,False,160.0,93.4,2024-10-04
+PH244,60+,62,90,Male,East,Non-Smoker,Weekly,30.6,113.8,False,True,209.5,101.6,2024-05-17
+PH245,46-60,60,78,Female,East,Non-Smoker,Daily,26.1,105.5,False,False,220.2,86.0,2023-08-30
+PH246,18-25,23,74,Male,West,Smoker,Weekly,21.0,104.8,False,False,181.0,97.7,2025-01-23
+PH247,60+,69,70,Male,West,Non-Smoker,Weekly,21.6,136.8,False,False,234.5,97.6,2026-05-05
+PH248,46-60,46,60,Male,North,Non-Smoker,Rarely,23.1,135.2,False,False,201.7,74.3,2025-11-25
+PH249,60+,71,76,Female,North,Non-Smoker,Never,28.2,105.0,False,False,198.6,99.7,2022-09-23
+PH250,18-25,20,95,Female,South,Non-Smoker,Weekly,30.1,106.6,False,False,184.2,68.1,2024-03-14
+PH251,26-35,30,84,Male,South,Non-Smoker,Never,31.1,102.7,False,False,185.7,98.5,2026-06-11
+PH252,46-60,51,57,Male,East,Non-Smoker,Weekly,26.4,127.1,False,False,148.5,92.6,2023-02-15
+PH253,26-35,30,56,Male,North,Non-Smoker,Weekly,18.9,107.5,False,True,164.7,71.0,2026-01-20
+PH254,36-45,40,45,Male,South,Non-Smoker,Weekly,18.9,100.1,False,False,176.9,105.7,2024-04-30
+PH255,60+,62,99,Female,North,Former Smoker,Daily,27.0,120.6,False,False,176.5,81.6,2024-06-23
+PH256,26-35,27,60,Male,North,Non-Smoker,Rarely,19.8,99.0,False,False,176.7,91.0,2023-03-10
+PH257,60+,64,62,Male,North,Former Smoker,Daily,23.9,135.6,False,False,185.6,127.4,2026-05-14
+PH258,18-25,25,69,Female,North,Non-Smoker,Weekly,25.8,114.4,False,False,195.3,105.0,2024-07-05
+PH259,26-35,29,44,Male,East,Smoker,Weekly,19.7,115.1,False,False,196.4,80.2,2024-09-23
+PH260,46-60,57,51,Male,South,Non-Smoker,Daily,20.2,85.0,False,False,182.9,70.5,2024-03-12
+PH261,60+,71,82,Female,South,Non-Smoker,Daily,24.1,119.2,False,True,149.5,76.0,2022-06-04
+PH262,26-35,29,110,Male,South,Former Smoker,Rarely,27.9,134.2,False,False,227.8,86.8,2025-09-15
+PH263,36-45,38,95,Male,East,Non-Smoker,Daily,29.0,129.2,False,False,178.1,86.2,2023-07-24
+PH264,60+,80,79,Male,West,Smoker,Weekly,27.0,107.5,False,True,202.2,92.1,2023-02-21
+PH265,60+,85,69,Female,East,Non-Smoker,Weekly,24.8,121.0,False,False,183.9,95.7,2025-09-18
+PH266,46-60,57,55,Male,East,Smoker,Weekly,21.4,103.6,False,False,175.9,87.8,2022-12-13
+PH267,46-60,48,77,Male,East,Non-Smoker,Daily,20.0,129.1,False,False,218.0,92.5,2025-03-29
+PH268,36-45,41,67,Male,East,Non-Smoker,Rarely,23.4,113.7,False,False,215.2,70.2,2024-04-02
+PH269,46-60,59,111,Male,North,Non-Smoker,Never,28.4,111.6,False,False,201.2,90.1,2025-10-19
+PH270,46-60,58,93,Female,West,Former Smoker,Daily,26.2,118.4,False,False,182.7,94.4,2022-03-29
+PH271,36-45,38,42,Male,North,Non-Smoker,Never,17.9,85.0,False,False,186.1,76.9,2025-09-05
+PH272,18-25,19,57,Female,South,Non-Smoker,Weekly,21.2,91.1,False,False,168.2,108.2,2023-02-02
+PH273,26-35,28,82,Female,East,Non-Smoker,Rarely,30.6,113.5,False,False,175.1,100.2,2026-02-18
+PH274,60+,83,76,Female,South,Non-Smoker,Rarely,25.8,134.0,False,False,203.5,77.5,2023-09-06
+PH275,46-60,46,58,Male,North,Former Smoker,Rarely,19.8,88.2,False,False,161.6,90.9,2022-01-13
+PH276,46-60,50,145,Female,West,Smoker,Rarely,35.4,121.9,False,False,211.0,117.0,2024-04-25
+PH277,46-60,49,62,Female,North,Non-Smoker,Weekly,24.4,125.1,False,False,186.1,90.2,2022-04-05
+PH278,60+,71,80,Male,North,Smoker,Weekly,26.1,108.6,False,True,217.1,81.3,2023-04-13
+PH279,18-25,22,85,Female,West,Former Smoker,Weekly,26.5,110.7,False,False,156.1,115.6,2025-05-27
+PH280,18-25,23,68,Female,East,Non-Smoker,Daily,23.0,106.3,False,False,189.5,68.1,2024-08-30
+PH281,36-45,36,67,Male,North,Non-Smoker,Rarely,22.4,127.7,False,False,148.2,96.2,2025-05-13
+PH282,46-60,51,85,Female,West,Smoker,Daily,33.4,122.3,False,False,185.9,109.0,2026-03-04
+PH283,60+,63,86,Male,West,Non-Smoker,Weekly,28.7,119.5,False,True,175.7,110.6,2024-03-22
+PH284,46-60,51,89,Female,North,Non-Smoker,Daily,28.0,126.8,False,False,155.4,123.5,2024-07-31
+PH285,46-60,47,83,Other,South,Smoker,Daily,26.9,103.9,False,False,221.2,103.8,2022-04-12
+PH286,60+,81,68,Male,South,Smoker,Rarely,21.3,121.1,False,True,170.8,86.1,2023-05-13
+PH287,26-35,28,111,Female,North,Former Smoker,Rarely,31.2,108.6,False,False,161.6,114.2,2025-06-09
+PH288,46-60,56,70,Male,North,Non-Smoker,Weekly,21.0,111.7,False,False,213.9,79.0,2022-04-18
+PH289,46-60,54,77,Female,North,Smoker,Daily,25.7,128.8,False,False,177.8,97.6,2023-09-15
+PH290,46-60,50,44,Female,North,Non-Smoker,Weekly,17.6,115.0,False,False,167.4,62.7,2022-08-25
+PH291,60+,72,44,Male,South,Former Smoker,Weekly,16.2,105.7,False,False,150.3,69.4,2026-01-26
+PH292,36-45,36,77,Male,South,Non-Smoker,Rarely,26.8,113.9,False,False,202.1,93.6,2024-08-31
+PH293,60+,82,65,Male,North,Non-Smoker,Weekly,21.1,137.0,False,True,211.7,99.9,2025-01-22
+PH294,36-45,40,45,Male,South,Non-Smoker,Weekly,16.1,95.8,False,False,188.1,55.0,2025-03-31
+PH295,46-60,55,69,Male,North,Non-Smoker,Weekly,26.8,119.2,False,False,200.4,104.4,2023-01-24
+PH296,46-60,53,89,Male,West,Smoker,Never,35.6,125.0,False,True,207.3,97.5,2022-03-28
+PH297,60+,75,73,Male,North,Non-Smoker,Rarely,31.3,126.2,False,False,183.2,127.4,2023-11-21
+PH298,46-60,47,67,Male,West,Smoker,Weekly,23.4,97.8,False,False,165.7,84.9,2022-11-18
+PH299,36-45,37,58,Female,East,Smoker,Weekly,24.5,129.3,False,True,222.5,72.8,2023-07-13
+PH300,18-25,19,72,Female,West,Non-Smoker,Daily,28.2,100.2,False,True,195.9,92.4,2023-07-08
+PH301,36-45,42,89,Female,East,Former Smoker,Never,31.7,129.2,False,False,167.3,87.8,2025-09-17
+PH302,60+,74,56,Male,South,Non-Smoker,Weekly,23.1,113.1,True,False,188.7,114.6,2023-07-09
+PH303,18-25,18,77,Female,East,Non-Smoker,Weekly,24.6,98.7,False,False,161.5,85.6,2022-09-20
+PH304,60+,78,91,Female,South,Non-Smoker,Never,28.0,138.4,False,False,163.3,101.5,2026-07-20
+PH305,46-60,54,76,Male,North,Non-Smoker,Rarely,27.8,129.1,False,False,191.3,107.2,2022-03-27
+PH306,26-35,27,67,Male,South,Non-Smoker,Daily,23.9,109.8,False,False,160.5,71.5,2022-12-20
+PH307,36-45,38,76,Female,South,Non-Smoker,Daily,24.0,119.0,False,False,149.4,69.7,2023-08-26
+PH308,46-60,55,81,Male,North,Non-Smoker,Daily,30.3,117.3,True,True,148.2,108.4,2022-04-19
+PH309,36-45,39,78,Female,North,Non-Smoker,Weekly,29.6,115.3,False,False,139.4,81.2,2026-04-09
+PH310,18-25,25,93,Other,West,Former Smoker,Daily,26.8,102.0,False,False,164.5,73.9,2023-09-05
+PH311,60+,63,114,Male,East,Former Smoker,Never,34.2,135.8,False,False,194.7,122.4,2025-09-18
+PH312,60+,63,81,Male,South,Smoker,Never,25.1,113.9,False,True,171.6,104.1,2022-08-22
+PH313,26-35,26,105,Other,West,Non-Smoker,Weekly,31.3,129.5,False,False,198.9,78.6,2024-06-23
+PH314,36-45,37,61,Female,North,Smoker,Rarely,27.8,112.9,False,False,188.4,85.2,2022-08-08
+PH315,26-35,34,136,Male,South,Non-Smoker,Weekly,38.2,121.1,False,False,207.9,96.0,2023-02-06
+PH316,60+,62,61,Female,West,Non-Smoker,Daily,19.5,122.1,False,False,174.0,114.2,2023-12-08
+PH317,60+,67,77,Female,East,Smoker,Rarely,22.6,120.9,False,False,172.5,106.9,2026-02-04
+PH318,60+,67,82,Female,South,Non-Smoker,Daily,26.3,117.3,False,False,192.2,92.5,2023-06-16
+PH319,60+,81,78,Female,South,Non-Smoker,Daily,26.2,124.1,False,False,158.4,110.4,2025-08-01
+PH320,60+,70,94,Male,North,Former Smoker,Weekly,33.0,136.6,False,False,213.2,89.2,2022-06-09
+PH321,36-45,39,68,Male,North,Smoker,Daily,21.7,104.8,False,False,157.4,75.7,2023-03-13
+PH322,18-25,25,80,Female,North,Smoker,Weekly,28.3,112.1,False,False,212.4,94.2,2024-11-13
+PH323,46-60,59,101,Male,West,Non-Smoker,Rarely,30.4,121.7,False,False,181.6,110.0,2024-03-22
+PH324,60+,80,67,Female,East,Smoker,Rarely,28.5,138.5,False,False,235.9,103.5,2024-05-19
+PH325,60+,84,59,Female,South,Non-Smoker,Rarely,21.5,120.4,False,False,157.7,99.1,2025-03-22
+PH326,26-35,33,122,Male,West,Former Smoker,Rarely,31.7,135.3,False,False,164.6,100.7,2022-05-14
+PH327,26-35,34,80,Female,North,Smoker,Weekly,29.7,115.3,False,True,202.2,94.2,2025-04-20
+PH328,18-25,20,80,Male,North,Smoker,Rarely,28.0,109.2,False,False,217.4,86.7,2026-02-04
+PH329,26-35,27,66,Female,South,Non-Smoker,Weekly,25.4,106.8,False,False,220.5,82.3,2025-08-21
+PH330,46-60,55,79,Male,West,Non-Smoker,Weekly,25.4,102.1,False,True,184.9,98.5,2023-05-09
+PH331,46-60,55,70,Female,East,Non-Smoker,Never,26.4,105.9,False,False,236.4,102.5,2023-09-01
+PH332,36-45,43,78,Female,West,Non-Smoker,Weekly,27.2,108.8,False,False,173.6,97.9,2026-07-26
+PH333,36-45,39,82,Male,North,Non-Smoker,Daily,24.6,123.9,False,False,208.0,72.5,2025-10-01
+PH334,60+,74,56,Female,West,Smoker,Weekly,20.9,120.9,False,False,168.6,77.4,2026-06-04
+PH335,46-60,49,66,Female,North,Non-Smoker,Weekly,20.1,105.3,False,False,187.0,91.6,2026-05-03
+PH336,60+,72,71,Female,North,Non-Smoker,Weekly,21.3,131.5,False,False,119.2,114.6,2024-01-23
+PH337,60+,83,88,Female,East,Former Smoker,Weekly,25.7,141.7,True,False,162.5,103.8,2022-08-13
+PH338,36-45,39,80,Other,North,Non-Smoker,Never,26.6,126.8,False,False,192.6,87.0,2023-02-01
+PH339,26-35,31,113,Male,West,Non-Smoker,Weekly,25.4,100.4,False,False,138.6,93.0,2025-12-18
+PH340,60+,82,91,Female,West,Smoker,Weekly,26.6,122.6,False,False,216.6,85.6,2023-04-25
+PH341,60+,61,68,Male,East,Smoker,Weekly,21.9,138.3,False,False,217.0,110.6,2023-09-19
+PH342,36-45,37,83,Female,South,Smoker,Rarely,31.7,122.1,False,False,180.9,103.1,2026-01-16
+PH343,46-60,60,68,Female,North,Non-Smoker,Daily,23.4,113.4,True,False,155.9,82.9,2022-10-11
+PH344,46-60,53,81,Male,East,Non-Smoker,Daily,22.7,121.7,False,True,166.5,87.9,2025-02-24
+PH345,60+,79,98,Male,East,Non-Smoker,Weekly,26.5,135.2,True,False,166.4,94.0,2024-08-14
+PH346,26-35,35,64,Female,West,Smoker,Rarely,17.8,101.5,False,False,174.8,98.8,2026-09-04
+PH347,60+,85,74,Male,East,Former Smoker,Rarely,22.5,125.0,False,False,193.6,94.1,2024-04-28
+PH348,60+,81,70,Female,North,Non-Smoker,Weekly,28.6,136.6,True,True,188.1,107.8,2024-06-22
+PH349,26-35,30,58,Male,North,Smoker,Rarely,18.2,94.0,False,False,223.2,87.2,2026-01-13
+PH350,26-35,29,72,Female,West,Smoker,Weekly,29.2,115.4,False,False,169.0,83.8,2026-09-16
+PH351,46-60,54,73,Male,North,Smoker,Daily,30.8,111.3,False,False,238.9,105.8,2025-04-25
+PH352,18-25,21,71,Male,West,Former Smoker,Daily,23.2,94.5,False,False,140.1,88.3,2026-02-28
+PH353,36-45,38,82,Female,North,Non-Smoker,Daily,25.7,105.8,False,False,180.2,68.3,2026-08-26
+PH354,46-60,47,98,Female,East,Non-Smoker,Weekly,29.2,122.6,True,False,218.6,102.6,2023-05-22
+PH355,60+,83,71,Male,West,Non-Smoker,Weekly,22.5,118.5,True,False,221.8,96.1,2025-01-18
+PH356,60+,85,90,Male,South,Non-Smoker,Weekly,28.1,120.0,False,False,185.8,107.6,2023-02-14
+PH357,26-35,28,56,Female,North,Non-Smoker,Weekly,21.7,106.6,False,False,185.4,83.9,2024-05-17
+PH358,60+,78,66,Female,West,Non-Smoker,Weekly,22.5,108.0,False,False,200.1,99.5,2024-02-10
+PH359,18-25,24,53,Male,North,Former Smoker,Rarely,22.4,110.2,False,False,154.2,103.7,2026-09-09
+PH360,60+,68,59,Female,East,Smoker,Rarely,26.9,136.8,False,True,217.4,82.4,2024-08-19
+PH361,60+,75,96,Female,West,Non-Smoker,Weekly,29.4,124.4,False,False,247.6,100.1,2026-07-22
+PH362,60+,78,63,Female,East,Smoker,Weekly,23.7,122.4,False,False,213.0,107.4,2025-11-02
+PH363,26-35,33,64,Female,North,Non-Smoker,Weekly,19.2,109.5,False,False,184.4,87.9,2026-01-11
+PH364,60+,78,70,Female,West,Former Smoker,Weekly,20.3,96.5,False,False,204.4,99.1,2022-10-21
+PH365,18-25,25,71,Male,North,Non-Smoker,Weekly,26.2,114.6,False,False,133.2,130.7,2025-09-06
+PH366,46-60,53,103,Female,East,Non-Smoker,Weekly,32.2,155.6,False,True,204.1,113.9,2023-03-13
+PH367,46-60,49,73,Female,East,Non-Smoker,Rarely,27.2,114.9,False,False,155.3,113.2,2024-09-28
+PH368,36-45,39,54,Female,South,Non-Smoker,Rarely,23.9,109.5,False,False,159.8,84.5,2024-04-22
+PH369,18-25,19,83,Male,South,Non-Smoker,Daily,27.7,116.5,False,False,234.4,75.6,2023-03-27
+PH370,60+,70,65,Male,North,Non-Smoker,Weekly,23.5,137.3,False,False,179.6,90.6,2026-09-04
+PH371,36-45,40,70,Female,West,Non-Smoker,Never,25.1,122.8,False,False,157.4,101.8,2026-02-27
+PH372,60+,62,78,Male,North,Non-Smoker,Daily,20.5,90.8,False,False,212.5,95.2,2024-09-22
+PH373,36-45,45,74,Female,South,Non-Smoker,Rarely,31.4,124.7,False,False,160.9,107.8,2022-01-19
+PH374,36-45,43,50,Male,East,Non-Smoker,Daily,16.0,133.9,False,False,155.7,74.9,2022-11-14
+PH375,60+,78,71,Female,East,Non-Smoker,Weekly,27.9,131.8,False,False,229.7,98.0,2023-01-30
+PH376,18-25,24,75,Female,East,Smoker,Weekly,22.6,95.9,False,False,180.7,81.1,2026-08-13
+PH377,60+,68,71,Male,East,Former Smoker,Daily,23.1,121.4,False,False,141.8,105.1,2023-12-02
+PH378,60+,68,105,Male,East,Non-Smoker,Never,33.8,112.8,True,False,213.6,123.0,2022-03-23
+PH379,36-45,43,55,Female,West,Smoker,Weekly,21.5,126.6,False,False,173.7,71.3,2024-10-13
+PH380,26-35,35,63,Female,South,Non-Smoker,Never,23.8,99.2,False,False,218.0,99.6,2026-07-07
+PH381,18-25,18,80,Male,West,Non-Smoker,Weekly,24.0,105.8,False,False,152.1,74.8,2024-08-30
+PH382,60+,81,102,Female,West,Non-Smoker,Rarely,27.2,115.8,False,False,224.5,110.4,2024-02-09
+PH383,60+,82,79,Female,West,Smoker,Never,24.8,120.6,False,True,252.2,97.1,2022-11-01
+PH384,26-35,34,47,Male,West,Smoker,Weekly,17.9,124.0,False,False,153.5,102.5,2026-03-04
+PH385,18-25,20,65,Male,West,Smoker,Daily,20.9,107.2,False,False,170.6,74.1,2022-07-01
+PH386,26-35,26,125,Male,North,Non-Smoker,Rarely,30.9,106.6,False,False,191.0,99.4,2026-06-07
+PH387,18-25,22,75,Male,West,Former Smoker,Weekly,25.1,94.5,False,False,147.8,96.3,2023-01-21
+PH388,60+,74,103,Male,East,Smoker,Never,28.6,106.8,False,False,211.8,90.8,2022-08-28
+PH389,60+,78,62,Male,South,Non-Smoker,Weekly,23.4,107.6,False,True,183.1,95.9,2023-08-28
+PH390,26-35,28,64,Female,East,Smoker,Weekly,21.7,110.3,False,True,173.0,79.5,2022-01-25
+PH391,60+,68,102,Male,South,Non-Smoker,Daily,31.5,135.9,True,False,197.0,99.3,2022-11-20
+PH392,26-35,30,77,Female,East,Non-Smoker,Rarely,24.7,102.8,False,False,176.1,81.8,2025-04-15
+PH393,36-45,42,66,Male,West,Non-Smoker,Never,24.8,129.7,False,False,183.1,107.9,2025-11-13
+PH394,46-60,58,77,Male,North,Smoker,Daily,29.1,115.4,False,True,182.5,92.1,2023-03-06
+PH395,60+,66,76,Female,South,Non-Smoker,Rarely,22.5,114.6,False,False,168.5,101.4,2025-01-22
+PH396,60+,77,85,Female,West,Former Smoker,Never,24.5,110.1,False,False,187.0,103.1,2023-09-02
+PH397,18-25,21,89,Male,South,Non-Smoker,Daily,24.5,117.2,False,False,169.5,65.2,2024-01-21
+PH398,26-35,31,92,Male,West,Smoker,Daily,24.5,135.2,False,True,172.0,96.1,2023-08-04
+PH399,36-45,37,80,Male,North,Smoker,Rarely,26.6,96.1,False,False,197.9,71.5,2026-03-26
+PH400,36-45,39,97,Female,East,Non-Smoker,Rarely,34.3,115.3,False,False,138.0,114.1,2024-06-06
+PH401,60+,85,92,Male,West,Non-Smoker,Daily,25.9,139.2,True,False,174.4,94.7,2024-05-27
+PH402,60+,70,52,Male,West,Non-Smoker,Rarely,16.0,97.3,False,False,169.9,84.2,2026-01-30
+PH403,36-45,39,66,Male,North,Non-Smoker,Weekly,25.9,118.6,False,False,154.7,72.7,2025-02-13
+PH404,60+,84,69,Male,West,Former Smoker,Never,27.2,139.5,True,True,241.6,105.8,2022-09-17
+PH405,46-60,51,85,Female,South,Non-Smoker,Never,26.9,117.4,False,False,184.6,110.1,2022-11-24
+PH406,46-60,52,77,Female,South,Non-Smoker,Rarely,26.5,122.6,False,False,189.0,83.8,2023-08-14
+PH407,46-60,47,72,Female,South,Non-Smoker,Weekly,24.4,132.8,False,False,166.2,82.5,2022-06-19
+PH408,26-35,27,83,Male,East,Non-Smoker,Weekly,24.3,129.2,False,False,172.1,93.9,2025-04-14
+PH409,60+,81,89,Male,East,Non-Smoker,Weekly,27.1,124.5,True,False,160.8,110.3,2024-05-08
+PH410,18-25,18,80,Male,South,Former Smoker,Daily,22.5,98.0,False,False,162.6,55.0,2022-03-18
+PH411,26-35,29,48,Female,North,Non-Smoker,Rarely,21.5,96.0,False,False,143.7,113.6,2023-11-26
+PH412,26-35,33,115,Female,West,Former Smoker,Daily,37.5,130.8,False,False,182.8,116.1,2025-12-10
+PH413,36-45,36,70,Female,North,Non-Smoker,Weekly,21.5,93.0,False,False,100.7,95.3,2026-04-22
+PH414,26-35,26,59,Other,North,Non-Smoker,Daily,24.9,105.2,False,False,141.4,85.6,2026-07-26
+PH415,18-25,19,49,Other,East,Non-Smoker,Weekly,18.2,101.8,False,False,203.5,55.0,2026-05-19
+PH416,60+,64,66,Female,South,Smoker,Weekly,25.0,116.2,False,True,219.6,106.4,2024-11-19
+PH417,60+,83,64,Male,East,Non-Smoker,Rarely,21.6,124.4,False,False,225.9,86.9,2026-05-27
+PH418,26-35,26,87,Male,West,Non-Smoker,Rarely,23.6,135.2,False,False,210.3,94.0,2026-07-17
+PH419,36-45,38,111,Male,North,Smoker,Daily,28.9,116.2,False,False,210.8,93.1,2025-01-06
+PH420,46-60,52,73,Female,South,Former Smoker,Rarely,27.8,112.8,False,False,172.9,101.4,2023-12-18
+PH421,60+,81,89,Male,East,Smoker,Rarely,27.9,140.0,True,False,176.8,92.7,2026-08-03
+PH422,60+,65,54,Female,West,Smoker,Weekly,17.1,118.3,False,False,219.3,97.6,2023-12-21
+PH423,60+,70,104,Female,East,Non-Smoker,Rarely,33.2,142.8,False,False,200.2,92.1,2022-10-16
+PH424,46-60,57,61,Female,South,Smoker,Weekly,19.5,117.2,False,False,257.2,120.2,2022-07-04
+PH425,46-60,46,96,Male,East,Former Smoker,Daily,31.2,115.9,False,False,177.3,135.2,2024-09-10
+PH426,26-35,31,106,Male,West,Non-Smoker,Weekly,28.8,92.9,False,False,234.6,119.2,2022-03-03
+PH427,60+,76,92,Male,South,Smoker,Daily,26.9,108.8,False,False,198.5,120.9,2022-07-25
+PH428,60+,72,59,Female,West,Non-Smoker,Never,23.1,99.3,False,False,224.3,93.9,2023-02-28
+PH429,18-25,19,90,Female,West,Non-Smoker,Never,27.3,112.2,False,False,221.0,107.4,2024-07-07
+PH430,60+,66,79,Female,South,Non-Smoker,Rarely,23.5,103.1,False,False,156.7,93.1,2024-04-09
+PH431,18-25,23,76,Male,North,Non-Smoker,Weekly,24.6,120.7,False,False,158.0,63.4,2024-06-05
+PH432,60+,68,81,Male,West,Non-Smoker,Weekly,23.5,118.9,False,False,157.0,117.4,2024-05-30
+PH433,60+,74,55,Male,North,Non-Smoker,Never,18.1,113.3,False,False,147.2,105.1,2026-09-20
+PH434,26-35,26,89,Female,South,Non-Smoker,Weekly,29.2,102.2,False,False,196.8,93.8,2023-01-13
+PH435,46-60,47,73,Female,North,Non-Smoker,Daily,24.2,120.1,False,True,173.9,72.9,2024-11-28
+PH436,26-35,26,50,Male,East,Former Smoker,Weekly,22.8,97.4,False,False,171.9,75.8,2023-04-21
+PH437,46-60,56,65,Female,South,Non-Smoker,Weekly,22.1,103.4,True,False,195.8,62.9,2022-11-11
+PH438,60+,81,70,Male,East,Non-Smoker,Weekly,26.0,137.4,False,False,141.5,115.7,2022-03-22
+PH439,18-25,23,52,Female,West,Non-Smoker,Daily,20.7,107.7,False,False,203.0,56.8,2023-07-20
+PH440,36-45,45,57,Male,West,Non-Smoker,Weekly,16.0,103.6,False,False,159.2,82.9,2023-03-17
+PH441,60+,84,84,Male,West,Former Smoker,Weekly,26.5,132.6,False,False,210.1,90.3,2022-12-06
+PH442,36-45,38,79,Female,North,Smoker,Daily,26.7,115.9,False,False,206.7,71.7,2023-04-16
+PH443,26-35,26,65,Male,South,Smoker,Daily,23.7,114.2,False,False,219.9,89.5,2025-04-23
+PH444,46-60,51,61,Male,North,Non-Smoker,Weekly,19.7,101.8,False,False,172.5,80.4,2025-12-05
+PH445,46-60,52,92,Male,West,Non-Smoker,Never,27.1,139.8,False,False,125.2,109.3,2024-06-14
+PH446,60+,63,48,Male,East,Non-Smoker,Weekly,18.3,106.7,False,False,179.7,67.1,2022-04-26
+PH447,36-45,39,63,Female,South,Smoker,Rarely,21.2,128.8,False,False,188.7,73.7,2022-09-21
+PH448,60+,82,74,Female,East,Non-Smoker,Rarely,22.3,119.6,False,True,160.6,60.4,2022-04-10
+PH449,46-60,53,62,Female,East,Non-Smoker,Weekly,28.0,127.0,False,False,190.3,65.7,2024-09-12
+PH450,36-45,37,70,Male,South,Non-Smoker,Rarely,24.0,118.4,False,False,165.6,115.8,2024-01-08
+PH451,60+,83,66,Female,South,Non-Smoker,Rarely,23.6,135.6,False,False,153.8,129.6,2023-06-25
+PH452,60+,80,95,Male,North,Non-Smoker,Weekly,32.7,120.1,True,False,220.1,112.8,2026-08-04
+PH453,46-60,51,72,Male,South,Non-Smoker,Daily,26.0,127.7,False,False,167.2,82.5,2022-06-08
+PH454,18-25,19,78,Male,South,Non-Smoker,Daily,25.9,127.2,False,False,160.4,83.3,2024-10-15
+PH455,46-60,58,96,Female,West,Non-Smoker,Never,25.1,114.3,False,False,171.5,108.3,2023-12-27
+PH456,46-60,55,65,Female,West,Non-Smoker,Rarely,23.0,115.0,False,False,215.4,83.6,2025-10-21
+PH457,26-35,28,54,Female,West,Non-Smoker,Never,17.5,96.9,False,False,163.7,80.7,2022-03-12
+PH458,60+,61,118,Female,North,Smoker,Never,30.8,121.7,True,False,204.5,104.1,2023-12-29
+PH459,60+,75,72,Female,West,Non-Smoker,Daily,26.4,141.7,False,False,179.6,92.2,2022-09-12
+PH460,18-25,25,93,Female,South,Non-Smoker,Rarely,24.7,96.6,False,False,185.4,79.4,2022-03-13
+PH461,60+,67,72,Female,South,Former Smoker,Weekly,24.2,108.6,True,True,224.3,100.2,2024-03-13
+PH462,26-35,27,107,Male,West,Non-Smoker,Rarely,28.6,129.0,False,False,195.9,78.9,2025-06-28
+PH463,60+,68,59,Male,West,Smoker,Daily,18.0,124.1,False,False,208.6,93.4,2022-10-01
+PH464,46-60,46,68,Male,North,Non-Smoker,Weekly,22.0,134.6,False,False,193.5,80.8,2025-12-31
+PH465,18-25,18,61,Female,South,Non-Smoker,Rarely,20.7,97.5,False,False,126.5,81.7,2024-06-18
+PH466,60+,83,89,Male,East,Non-Smoker,Rarely,32.9,131.8,False,True,178.0,133.1,2024-04-13
+PH467,26-35,29,87,Female,East,Non-Smoker,Rarely,29.2,105.0,False,False,173.4,92.3,2026-05-20
+PH468,46-60,58,53,Male,South,Non-Smoker,Weekly,16.0,111.4,False,False,153.2,95.3,2023-07-25
+PH469,26-35,30,54,Female,East,Non-Smoker,Weekly,18.1,85.0,False,False,136.5,55.0,2022-12-14
+PH470,60+,81,74,Male,West,Non-Smoker,Never,26.1,131.9,False,True,141.3,94.7,2025-09-25
+PH471,60+,68,64,Male,North,Non-Smoker,Weekly,22.5,121.4,False,False,147.1,93.8,2022-07-05
+PH472,60+,72,65,Male,East,Former Smoker,Weekly,19.2,115.7,False,True,175.1,118.2,2026-02-21
+PH473,46-60,47,114,Male,East,Non-Smoker,Weekly,32.7,115.8,False,False,187.7,74.6,2025-12-02
+PH474,46-60,49,69,Female,West,Non-Smoker,Weekly,25.8,105.3,False,False,159.9,92.8,2026-08-22
+PH475,60+,61,71,Male,South,Non-Smoker,Weekly,26.5,127.1,False,False,189.4,119.7,2024-03-09
+PH476,60+,71,67,Female,North,Smoker,Weekly,21.6,108.1,False,False,182.6,80.9,2026-03-11
+PH477,60+,75,103,Male,East,Smoker,Rarely,28.5,133.3,False,False,235.0,100.8,2022-08-17
+PH478,18-25,19,87,Male,East,Smoker,Never,25.1,132.0,False,False,176.2,91.5,2023-06-15
+PH479,60+,63,63,Female,South,Non-Smoker,Never,25.5,135.2,False,False,206.2,99.6,2024-03-29
+PH480,18-25,25,78,Male,West,Former Smoker,Weekly,27.4,93.1,False,False,181.3,114.7,2024-12-24
+PH481,36-45,37,46,Other,West,Non-Smoker,Weekly,17.7,99.4,False,False,128.9,86.1,2025-03-23
+PH482,60+,74,92,Female,North,Non-Smoker,Rarely,32.2,131.9,False,False,196.0,129.2,2026-05-21
+PH483,26-35,35,96,Female,West,Smoker,Rarely,26.3,113.8,False,False,153.2,86.4,2024-04-28
+PH484,60+,72,72,Male,North,Non-Smoker,Weekly,29.9,109.5,False,False,192.0,94.3,2022-10-25
+PH485,46-60,49,49,Male,South,Non-Smoker,Rarely,21.0,115.5,False,False,155.5,83.6,2022-11-26
+PH486,26-35,33,57,Female,North,Non-Smoker,Rarely,21.6,107.2,False,False,182.2,67.0,2025-10-20
+PH487,36-45,40,63,Male,South,Non-Smoker,Rarely,20.6,129.6,False,False,135.2,91.7,2024-03-10
+PH488,46-60,54,86,Male,West,Non-Smoker,Rarely,26.6,114.4,False,False,185.2,90.6,2024-12-31
+PH489,60+,70,78,Male,South,Smoker,Daily,24.8,136.1,False,False,214.3,87.2,2024-09-02
+PH490,46-60,59,78,Female,East,Non-Smoker,Weekly,22.5,101.4,False,False,207.1,99.0,2025-11-10
+PH491,60+,81,47,Female,North,Former Smoker,Weekly,20.5,108.6,False,False,165.6,76.2,2023-01-14
+PH492,60+,77,67,Female,East,Non-Smoker,Daily,19.2,125.6,False,False,184.5,102.0,2022-10-23
+PH493,60+,69,72,Female,South,Smoker,Rarely,25.3,135.3,False,True,203.7,90.6,2025-06-25
+PH494,46-60,59,78,Male,East,Former Smoker,Rarely,23.8,105.9,False,False,226.6,110.8,2024-01-23
+PH495,36-45,37,53,Female,West,Former Smoker,Daily,21.9,109.0,False,False,131.8,79.8,2025-11-15
+PH496,46-60,46,95,Male,East,Non-Smoker,Rarely,32.0,104.1,True,False,163.0,112.3,2022-08-12
+PH497,26-35,26,77,Female,North,Non-Smoker,Rarely,25.2,106.2,False,False,251.8,90.8,2023-04-17
+PH498,36-45,43,107,Male,South,Smoker,Rarely,30.8,129.7,True,False,188.4,111.6,2026-07-23
+PH499,60+,81,52,Other,North,Non-Smoker,Weekly,22.3,116.5,True,False,136.1,97.6,2026-01-02
+PH500,46-60,46,79,Male,South,Non-Smoker,Rarely,26.5,112.2,False,False,165.6,69.7,2022-04-19
+PH501,18-25,25,61,Male,North,Smoker,Weekly,24.3,97.8,False,False,104.3,101.7,2025-11-17
+PH502,60+,62,55,Male,East,Non-Smoker,Weekly,17.4,104.9,False,False,183.3,83.1,2022-04-24
+PH503,60+,83,101,Male,South,Former Smoker,Daily,30.8,148.0,False,True,222.7,121.0,2022-07-28
+PH504,60+,76,88,Male,North,Non-Smoker,Rarely,24.9,122.8,False,False,165.0,109.2,2026-04-07
+PH505,36-45,36,79,Female,North,Non-Smoker,Rarely,28.6,102.8,False,False,167.8,84.0,2022-08-07
+PH506,46-60,48,72,Male,West,Smoker,Weekly,21.3,110.9,False,False,212.3,73.6,2023-06-06
+PH507,46-60,54,86,Female,West,Former Smoker,Weekly,24.1,97.6,False,False,132.8,102.6,2022-08-23
+PH508,26-35,34,51,Male,West,Former Smoker,Rarely,22.2,96.9,False,False,135.5,80.9,2024-11-01
+PH509,36-45,36,99,Female,North,Non-Smoker,Rarely,30.7,130.4,False,True,177.0,112.7,2022-04-10
+PH510,26-35,34,87,Male,South,Non-Smoker,Weekly,25.8,109.4,False,False,155.8,88.2,2023-05-14
+PH511,60+,85,81,Female,West,Non-Smoker,Never,28.2,148.0,False,False,189.4,121.1,2023-07-20
+PH512,60+,68,77,Female,East,Non-Smoker,Rarely,31.2,123.8,False,True,159.9,112.8,2025-01-29
+PH513,60+,75,106,Male,North,Smoker,Never,31.6,129.6,False,True,214.1,112.9,2024-05-10
+PH514,60+,73,74,Female,North,Smoker,Never,29.9,135.2,False,False,201.3,100.0,2022-11-30
+PH515,60+,83,60,Male,South,Non-Smoker,Never,20.7,91.2,False,False,203.3,97.5,2024-03-16
+PH516,18-25,25,66,Male,West,Non-Smoker,Rarely,22.6,108.1,False,False,175.5,102.0,2024-03-06
+PH517,60+,77,69,Female,North,Smoker,Rarely,21.3,121.8,True,True,202.3,92.8,2023-09-06
+PH518,18-25,22,75,Female,West,Non-Smoker,Daily,27.6,125.4,False,False,134.3,98.8,2024-07-14
+PH519,46-60,50,68,Male,East,Non-Smoker,Weekly,25.2,125.6,False,False,195.6,94.2,2023-07-20
+PH520,46-60,58,59,Male,West,Smoker,Rarely,19.7,103.3,False,False,178.6,88.8,2023-08-02
+PH521,36-45,42,80,Female,West,Smoker,Weekly,23.7,128.2,False,False,182.5,115.4,2025-09-20
+PH522,26-35,27,76,Female,South,Non-Smoker,Rarely,19.2,100.9,False,False,195.9,97.5,2023-03-13
+PH523,26-35,31,58,Other,West,Non-Smoker,Daily,24.3,99.0,False,False,153.8,89.1,2023-07-25
+PH524,60+,74,54,Female,North,Non-Smoker,Weekly,17.5,117.7,False,False,218.8,90.5,2022-09-01
+PH525,36-45,39,68,Female,South,Former Smoker,Weekly,27.0,111.1,False,False,220.5,83.3,2025-04-25
+PH526,36-45,39,89,Male,North,Smoker,Weekly,26.1,132.5,False,False,210.0,89.8,2025-05-09
+PH527,60+,80,85,Female,North,Former Smoker,Daily,32.8,133.2,False,True,173.9,116.2,2025-03-21
+PH528,26-35,27,76,Male,North,Former Smoker,Daily,28.4,113.3,False,False,116.3,105.9,2022-10-19
+PH529,60+,80,65,Female,North,Non-Smoker,Rarely,23.7,132.1,False,False,220.7,109.1,2024-02-23
+PH530,60+,80,82,Male,North,Non-Smoker,Weekly,27.9,137.6,False,True,198.6,87.6,2023-05-22
+PH531,46-60,58,58,Female,South,Non-Smoker,Daily,18.6,120.6,False,False,155.8,100.1,2025-08-17
+PH532,26-35,29,65,Female,North,Non-Smoker,Daily,20.5,120.9,False,False,201.6,80.4,2023-08-08
+PH533,26-35,28,77,Female,North,Non-Smoker,Weekly,25.9,116.1,False,False,150.8,74.9,2023-12-23
+PH534,36-45,37,42,Female,West,Smoker,Daily,16.0,108.8,False,False,164.3,96.9,2024-02-27
+PH535,46-60,57,84,Male,North,Former Smoker,Rarely,25.6,130.9,False,True,199.4,117.7,2025-08-12
+PH536,26-35,28,62,Female,North,Non-Smoker,Rarely,21.2,104.6,False,False,138.1,86.6,2025-05-03
+PH537,46-60,48,86,Male,North,Non-Smoker,Weekly,24.9,114.5,False,False,177.6,103.3,2025-11-22
+PH538,18-25,25,53,Male,North,Non-Smoker,Weekly,20.0,122.7,False,False,197.2,91.7,2024-01-13
+PH539,46-60,54,61,Male,East,Smoker,Daily,26.3,137.8,True,False,200.3,116.9,2025-11-22
+PH540,18-25,19,72,Male,West,Non-Smoker,Weekly,24.6,105.7,False,False,205.1,96.7,2026-02-19
+PH541,60+,66,115,Male,East,Non-Smoker,Never,32.6,120.4,False,False,227.9,88.2,2024-06-27
+PH542,18-25,21,74,Female,East,Non-Smoker,Weekly,24.5,122.4,False,False,171.0,116.3,2025-03-24
+PH543,26-35,31,68,Female,North,Non-Smoker,Never,23.5,117.1,False,False,107.6,102.7,2026-04-27
+PH544,26-35,29,61,Female,West,Non-Smoker,Weekly,23.5,111.2,False,False,141.3,78.6,2025-12-24
+PH545,60+,74,70,Male,North,Non-Smoker,Weekly,18.9,113.1,False,False,203.9,73.8,2023-04-25
+PH546,18-25,21,67,Male,East,Non-Smoker,Weekly,26.2,111.3,False,False,129.4,96.2,2025-05-27
+PH547,46-60,47,73,Male,South,Former Smoker,Weekly,27.3,115.5,False,False,174.0,91.8,2024-02-13
+PH548,46-60,58,119,Female,West,Smoker,Never,37.1,122.4,False,True,218.3,118.0,2022-09-15
+PH549,46-60,53,49,Female,South,Non-Smoker,Daily,21.9,114.6,False,True,220.0,100.3,2023-10-07
+PH550,60+,64,86,Male,East,Non-Smoker,Rarely,24.4,121.1,False,False,169.5,86.8,2026-08-23
+PH551,60+,72,74,Female,South,Non-Smoker,Rarely,23.1,115.3,False,True,168.9,78.4,2026-07-19
+PH552,36-45,44,85,Male,East,Non-Smoker,Weekly,25.4,123.4,False,False,178.4,98.3,2025-09-25
+PH553,60+,74,83,Male,West,Non-Smoker,Weekly,26.1,136.6,False,False,201.0,92.1,2026-09-14
+PH554,36-45,39,71,Male,East,Former Smoker,Weekly,24.6,122.0,False,False,172.8,92.3,2024-09-20
+PH555,60+,84,74,Male,South,Non-Smoker,Weekly,29.1,124.5,False,False,227.7,86.6,2025-08-06
+PH556,46-60,52,66,Female,South,Non-Smoker,Rarely,22.9,122.0,False,False,157.3,86.7,2022-10-14
+PH557,60+,68,74,Female,East,Smoker,Weekly,28.6,126.6,True,False,205.5,113.3,2023-06-03
+PH558,60+,77,92,Male,South,Non-Smoker,Never,29.0,111.9,False,False,208.2,114.2,2022-10-27
+PH559,60+,71,84,Female,North,Non-Smoker,Rarely,25.4,128.4,False,False,178.2,86.7,2026-06-14
+PH560,60+,75,83,Female,South,Smoker,Weekly,23.2,124.9,False,True,221.6,78.4,2024-12-01
+PH561,46-60,54,111,Female,North,Non-Smoker,Rarely,35.7,153.0,False,False,199.9,110.4,2026-06-06
+PH562,18-25,20,71,Female,North,Non-Smoker,Weekly,21.1,119.3,False,False,188.4,89.1,2023-12-23
+PH563,46-60,51,79,Male,South,Non-Smoker,Never,28.0,125.3,True,False,190.8,103.9,2023-12-01
+PH564,26-35,30,59,Female,West,Non-Smoker,Daily,21.3,109.0,False,False,180.7,75.6,2025-03-17
+PH565,60+,78,108,Male,West,Non-Smoker,Never,34.2,131.8,True,False,184.6,117.6,2024-09-11
+PH566,26-35,34,82,Female,South,Non-Smoker,Rarely,29.2,102.7,False,False,163.3,118.6,2023-10-08
+PH567,26-35,33,70,Male,South,Smoker,Rarely,22.7,92.0,True,False,217.0,89.0,2023-07-05
+PH568,26-35,34,68,Female,North,Smoker,Weekly,26.7,105.0,False,False,205.7,67.7,2024-06-08
+PH569,60+,61,69,Male,West,Non-Smoker,Rarely,26.6,118.6,False,False,158.6,101.0,2022-05-11
+PH570,46-60,56,73,Male,North,Former Smoker,Weekly,22.6,91.4,False,False,185.8,121.6,2022-11-22
+PH571,60+,82,96,Female,West,Smoker,Rarely,28.7,123.7,True,False,140.7,86.5,2022-03-17
+PH572,46-60,46,67,Female,West,Non-Smoker,Daily,26.1,111.9,False,False,165.4,94.5,2022-09-27
+PH573,36-45,37,82,Male,East,Non-Smoker,Weekly,25.4,109.1,False,False,204.3,87.6,2022-12-11
+PH574,18-25,21,67,Female,South,Non-Smoker,Weekly,24.3,98.9,False,False,167.0,87.2,2022-05-12
+PH575,18-25,18,78,Female,West,Non-Smoker,Weekly,26.3,103.1,False,False,175.2,91.0,2022-04-07
+PH576,36-45,43,91,Male,East,Non-Smoker,Weekly,25.5,132.2,False,False,95.1,109.5,2025-11-22
+PH577,60+,80,85,Female,East,Non-Smoker,Rarely,25.7,131.1,False,True,181.9,102.2,2022-11-13
+PH578,46-60,53,73,Male,West,Former Smoker,Weekly,22.1,107.2,False,False,188.6,108.7,2024-08-21
+PH579,60+,78,124,Female,West,Smoker,Rarely,32.6,131.0,False,False,223.5,109.0,2022-06-20
+PH580,18-25,24,55,Male,North,Former Smoker,Daily,20.4,103.5,False,False,193.8,75.3,2026-07-01
+PH581,18-25,24,70,Male,West,Smoker,Rarely,27.3,103.9,False,False,179.3,80.9,2023-02-19
+PH582,60+,74,64,Female,West,Non-Smoker,Rarely,24.2,112.4,True,False,184.2,70.0,2025-07-23
+PH583,18-25,25,91,Female,North,Smoker,Weekly,31.9,127.4,False,False,153.7,102.2,2025-01-16
+PH584,18-25,21,45,Female,South,Smoker,Rarely,21.7,102.4,False,False,171.7,112.7,2025-08-26
+PH585,36-45,45,68,Female,West,Smoker,Never,23.6,103.2,False,False,152.8,96.9,2024-12-26
+PH586,60+,80,59,Female,North,Non-Smoker,Rarely,21.4,119.9,False,True,136.0,104.7,2024-06-01
+PH587,60+,64,85,Female,South,Non-Smoker,Weekly,25.9,120.7,False,False,157.0,91.4,2025-08-31
+PH588,18-25,24,58,Female,East,Smoker,Weekly,18.7,85.0,False,False,217.1,74.4,2025-11-14
+PH589,60+,74,64,Male,East,Non-Smoker,Rarely,23.5,119.9,False,False,180.5,111.0,2023-10-21
+PH590,60+,75,51,Male,West,Non-Smoker,Weekly,16.0,124.1,False,False,185.6,115.3,2026-06-22
+PH591,60+,72,87,Male,North,Non-Smoker,Rarely,26.5,127.1,False,False,176.6,122.6,2026-09-09
+PH592,60+,79,60,Female,South,Former Smoker,Weekly,22.7,145.6,False,False,138.8,108.2,2025-06-05
+PH593,26-35,34,53,Male,West,Non-Smoker,Rarely,19.3,119.5,False,False,195.2,81.6,2026-05-30
+PH594,60+,84,61,Male,East,Smoker,Daily,29.1,146.5,False,True,147.4,109.9,2022-07-03
+PH595,36-45,39,48,Female,North,Non-Smoker,Daily,19.0,137.7,False,False,154.9,70.5,2024-07-25
+PH596,60+,72,81,Male,South,Former Smoker,Never,30.3,133.6,True,False,194.1,84.3,2025-02-02
+PH597,46-60,57,67,Male,South,Smoker,Rarely,22.6,119.6,False,False,197.5,74.2,2026-05-28
+PH598,60+,71,86,Female,East,Non-Smoker,Never,33.4,138.1,True,False,178.6,111.2,2022-07-28
+PH599,46-60,60,83,Female,South,Former Smoker,Never,30.1,115.6,True,False,139.7,98.7,2025-10-29
+PH600,60+,61,51,Male,East,Former Smoker,Weekly,20.6,115.5,False,True,157.6,66.9,2022-05-14
+PH601,46-60,59,63,Male,South,Non-Smoker,Weekly,20.6,106.7,True,False,158.5,88.1,2023-09-13
+PH602,60+,70,85,Male,East,Non-Smoker,Daily,27.0,126.4,False,True,169.3,95.9,2025-04-16
+PH603,60+,68,73,Female,North,Non-Smoker,Weekly,23.4,111.4,False,False,213.0,77.2,2023-05-20
+PH604,26-35,27,70,Female,East,Non-Smoker,Weekly,23.8,99.8,False,False,138.0,80.8,2025-12-18
+PH605,60+,74,76,Male,West,Smoker,Never,32.0,134.7,False,True,216.8,104.2,2026-06-02
+PH606,46-60,54,58,Female,North,Smoker,Daily,21.4,114.5,False,False,193.0,79.4,2022-10-03
+PH607,36-45,39,69,Male,South,Non-Smoker,Daily,24.9,90.4,False,False,204.4,104.5,2023-03-24
+PH608,46-60,52,80,Male,East,Non-Smoker,Weekly,28.5,102.2,False,False,182.7,70.4,2022-05-09
+PH609,60+,83,83,Other,East,Non-Smoker,Daily,27.9,113.7,False,False,218.7,75.0,2025-05-16
+PH610,60+,76,85,Male,East,Non-Smoker,Weekly,23.8,111.4,False,False,184.4,97.2,2026-03-18
+PH611,60+,74,81,Male,East,Former Smoker,Rarely,24.6,125.7,False,False,201.6,99.3,2024-11-09
+PH612,46-60,49,44,Male,East,Non-Smoker,Weekly,17.2,110.7,False,False,129.7,87.3,2022-08-18
+PH613,60+,71,68,Female,East,Non-Smoker,Rarely,21.1,129.2,False,True,110.3,83.8,2022-10-29
+PH614,36-45,44,91,Female,North,Non-Smoker,Never,28.0,123.8,False,False,193.6,82.7,2022-03-02
+PH615,60+,64,66,Other,West,Non-Smoker,Rarely,24.9,130.4,False,False,198.4,96.1,2024-04-29
+PH616,60+,61,86,Male,South,Non-Smoker,Rarely,25.8,125.2,True,False,199.6,90.2,2025-06-04
+PH617,26-35,34,83,Male,North,Smoker,Weekly,28.9,118.7,False,False,175.8,118.7,2022-09-18
+PH618,36-45,36,48,Female,South,Former Smoker,Daily,19.8,118.8,False,False,212.1,77.5,2026-01-09
+PH619,18-25,22,74,Male,South,Non-Smoker,Weekly,23.5,115.9,False,False,157.0,84.0,2023-03-15
+PH620,26-35,27,85,Female,North,Former Smoker,Never,27.8,114.7,False,False,188.6,129.5,2024-06-11
+PH621,46-60,47,65,Female,West,Former Smoker,Rarely,22.8,126.2,False,False,194.5,86.4,2024-07-25
+PH622,46-60,50,91,Male,North,Former Smoker,Weekly,30.8,93.6,False,False,236.6,110.3,2024-04-08
+PH623,26-35,29,76,Female,South,Non-Smoker,Weekly,28.3,108.4,False,False,169.3,103.2,2023-08-08
+PH624,46-60,46,87,Male,South,Former Smoker,Rarely,27.0,111.9,False,True,164.2,106.3,2024-01-16
+PH625,46-60,59,97,Male,West,Non-Smoker,Rarely,33.0,136.4,False,False,152.3,111.6,2023-02-18
+PH626,26-35,33,55,Female,East,Non-Smoker,Weekly,18.2,121.9,False,False,210.9,82.2,2023-05-26
+PH627,36-45,41,83,Female,West,Non-Smoker,Never,26.7,97.7,False,False,192.2,95.2,2025-08-02
+PH628,36-45,42,68,Female,North,Non-Smoker,Rarely,27.0,129.7,False,False,193.8,85.9,2026-03-11
+PH629,46-60,52,56,Female,West,Non-Smoker,Rarely,21.7,99.8,False,False,265.5,93.5,2026-01-12
+PH630,36-45,42,55,Other,West,Non-Smoker,Daily,25.8,100.6,False,False,188.7,123.0,2023-07-28
+PH631,60+,68,63,Other,South,Smoker,Daily,19.9,116.1,False,False,155.2,107.6,2023-07-12
+PH632,36-45,40,73,Female,East,Non-Smoker,Never,29.6,112.2,False,False,178.0,102.5,2022-04-12
+PH633,46-60,47,88,Male,North,Former Smoker,Weekly,29.2,100.2,False,False,158.2,111.7,2023-04-20
+PH634,36-45,43,80,Female,West,Non-Smoker,Weekly,25.6,120.5,False,False,168.7,79.6,2024-10-12
+PH635,26-35,30,54,Female,West,Non-Smoker,Weekly,16.7,110.0,False,False,153.3,72.5,2023-04-10
+PH636,60+,64,51,Male,South,Non-Smoker,Daily,20.4,126.7,False,False,164.5,103.7,2025-06-25
+PH637,26-35,34,82,Male,East,Non-Smoker,Rarely,27.9,107.8,False,False,140.3,116.3,2022-03-29
+PH638,36-45,38,91,Male,South,Smoker,Daily,24.6,113.7,False,False,231.4,78.4,2023-12-16
+PH639,60+,71,59,Male,North,Non-Smoker,Rarely,16.0,113.1,False,False,186.4,77.1,2023-05-03
+PH640,60+,82,100,Female,East,Smoker,Weekly,29.7,149.1,True,False,202.1,140.0,2024-05-07
+PH641,60+,63,78,Male,East,Non-Smoker,Weekly,25.1,87.3,False,False,207.4,97.6,2022-02-14
+PH642,60+,80,54,Female,West,Non-Smoker,Daily,21.1,109.5,False,False,200.5,121.2,2023-12-28
+PH643,60+,76,97,Female,West,Non-Smoker,Rarely,29.7,125.9,True,False,203.9,109.0,2025-09-29
+PH644,46-60,50,64,Female,South,Former Smoker,Daily,22.0,100.4,False,False,197.0,92.3,2026-01-25
+PH645,60+,70,69,Male,West,Non-Smoker,Daily,21.6,114.8,False,False,188.2,87.9,2023-03-20
+PH646,36-45,40,74,Male,East,Former Smoker,Rarely,27.3,112.5,False,False,199.5,108.6,2024-01-14
+PH647,46-60,49,92,Female,East,Non-Smoker,Weekly,32.0,112.9,False,False,210.6,123.8,2025-04-11
+PH648,46-60,54,95,Female,East,Non-Smoker,Weekly,31.3,121.7,False,False,195.0,88.0,2024-03-15
+PH649,60+,83,80,Female,West,Non-Smoker,Weekly,26.0,131.8,False,False,188.1,96.7,2024-07-30
+PH650,60+,75,87,Female,East,Non-Smoker,Rarely,27.4,121.2,False,False,236.0,116.1,2023-08-16
+PH651,46-60,51,77,Male,North,Former Smoker,Weekly,28.1,112.6,False,False,172.2,96.2,2025-12-23
+PH652,60+,62,47,Female,North,Non-Smoker,Daily,19.2,111.7,False,True,189.7,79.8,2024-12-31
+PH653,26-35,31,100,Male,South,Non-Smoker,Weekly,27.2,111.2,False,False,189.1,107.5,2026-07-24
+PH654,60+,72,87,Male,East,Non-Smoker,Daily,21.4,98.9,False,False,167.8,109.2,2025-09-14
+PH655,46-60,55,81,Female,East,Non-Smoker,Weekly,25.8,121.9,False,False,161.6,88.8,2023-09-29
+PH656,46-60,54,58,Male,South,Former Smoker,Daily,23.8,110.0,False,False,171.6,95.5,2023-07-23
+PH657,60+,70,70,Male,East,Non-Smoker,Daily,26.6,135.6,False,False,176.6,81.9,2022-06-03
+PH658,60+,61,79,Male,West,Non-Smoker,Weekly,25.0,124.4,False,False,144.5,82.2,2024-12-15
+PH659,18-25,22,57,Male,South,Smoker,Never,16.0,115.6,False,False,152.7,75.4,2025-07-23
+PH660,36-45,37,63,Female,South,Non-Smoker,Daily,25.3,100.2,False,False,184.7,91.2,2023-09-07
+PH661,26-35,30,79,Male,East,Non-Smoker,Daily,27.2,106.9,False,False,212.6,77.6,2022-02-06
+PH662,60+,67,87,Female,South,Non-Smoker,Never,28.6,108.8,False,False,207.3,91.6,2025-12-02
+PH663,18-25,20,87,Female,West,Non-Smoker,Never,26.3,99.7,False,False,99.7,72.5,2023-01-22
+PH664,26-35,31,91,Male,West,Non-Smoker,Rarely,32.4,129.2,False,False,201.7,106.9,2024-10-06
+PH665,46-60,58,61,Male,East,Non-Smoker,Weekly,25.8,134.0,False,False,169.6,66.7,2022-04-03
+PH666,60+,65,85,Female,South,Non-Smoker,Weekly,26.3,107.4,False,False,201.0,83.3,2022-04-19
+PH667,46-60,52,100,Female,East,Former Smoker,Daily,29.2,113.7,False,False,186.8,72.0,2026-04-07
+PH668,60+,76,76,Female,North,Smoker,Daily,26.0,125.1,False,False,196.4,106.7,2025-03-12
+PH669,60+,80,65,Female,South,Non-Smoker,Weekly,20.7,126.2,False,True,184.0,66.4,2022-01-10
+PH670,26-35,26,44,Male,North,Non-Smoker,Weekly,16.0,85.0,False,False,161.7,74.9,2022-06-24
+PH671,60+,82,59,Male,North,Non-Smoker,Weekly,22.5,104.1,False,True,227.3,121.1,2024-05-04
+PH672,46-60,59,97,Female,North,Non-Smoker,Rarely,28.7,125.7,False,False,188.5,125.8,2025-03-25
+PH673,60+,61,72,Male,East,Non-Smoker,Weekly,23.0,94.9,False,False,213.4,65.6,2024-01-06
+PH674,18-25,24,88,Female,North,Non-Smoker,Weekly,27.9,104.9,False,False,202.2,96.3,2026-02-22
+PH675,46-60,60,94,Female,East,Non-Smoker,Rarely,26.1,120.3,True,False,205.0,82.3,2025-02-05
+PH676,60+,67,82,Female,South,Non-Smoker,Never,32.1,129.8,False,True,146.0,89.7,2024-12-01
+PH677,46-60,57,64,Male,South,Non-Smoker,Weekly,23.3,113.8,False,False,213.1,90.4,2023-05-18
+PH678,18-25,23,80,Male,West,Non-Smoker,Weekly,26.5,104.4,True,False,161.0,107.9,2025-03-28
+PH679,46-60,53,73,Male,East,Non-Smoker,Weekly,26.6,126.2,False,False,204.5,105.3,2022-03-26
+PH680,60+,81,101,Male,East,Non-Smoker,Daily,30.8,131.3,True,False,172.1,98.0,2025-06-27
+PH681,60+,67,53,Female,East,Non-Smoker,Rarely,18.3,107.1,False,False,146.3,97.5,2026-03-06
+PH682,26-35,27,59,Male,North,Former Smoker,Daily,22.9,107.1,False,False,226.2,55.0,2024-01-20
+PH683,60+,83,84,Male,North,Smoker,Weekly,28.1,133.7,False,True,179.9,93.8,2025-08-21
+PH684,60+,83,94,Male,East,Non-Smoker,Weekly,31.0,147.7,False,False,232.3,97.1,2023-09-13
+PH685,26-35,29,86,Male,West,Non-Smoker,Daily,25.5,118.0,False,False,178.1,90.5,2022-12-01
+PH686,60+,72,73,Female,North,Non-Smoker,Daily,23.3,132.9,False,False,175.4,92.4,2025-11-15
+PH687,36-45,45,87,Male,North,Non-Smoker,Weekly,27.7,108.8,False,False,181.7,94.0,2023-06-24
+PH688,46-60,58,94,Other,West,Non-Smoker,Never,30.3,115.6,False,False,154.3,100.4,2025-08-05
+PH689,46-60,48,69,Male,West,Non-Smoker,Rarely,24.0,110.8,False,False,179.2,91.6,2023-07-01
+PH690,60+,71,69,Female,North,Non-Smoker,Weekly,25.9,119.8,False,False,159.6,107.3,2023-11-23
+PH691,60+,85,92,Male,South,Former Smoker,Daily,29.8,117.3,False,False,188.4,110.3,2025-04-02
+PH692,60+,72,94,Male,East,Non-Smoker,Rarely,33.4,141.6,False,True,225.2,106.4,2023-08-15
+PH693,60+,81,103,Female,North,Former Smoker,Daily,27.9,135.5,False,False,203.0,110.4,2025-11-01
+PH694,60+,82,88,Female,South,Former Smoker,Weekly,25.0,120.4,False,False,151.2,112.6,2022-03-09
+PH695,18-25,24,82,Female,South,Former Smoker,Rarely,25.6,115.0,False,False,196.9,80.0,2022-01-21
+PH696,26-35,35,84,Male,East,Smoker,Weekly,26.8,117.5,False,False,188.3,91.8,2022-05-22
+PH697,60+,67,70,Male,South,Non-Smoker,Weekly,24.0,126.7,False,True,171.1,112.9,2023-03-21
+PH698,46-60,58,62,Female,South,Smoker,Daily,25.3,105.5,True,False,215.6,78.9,2022-04-04
+PH699,18-25,21,58,Male,South,Non-Smoker,Daily,20.1,101.1,True,False,160.7,106.5,2023-10-23
+PH700,18-25,24,91,Female,West,Former Smoker,Weekly,30.2,111.1,False,False,146.1,75.3,2022-02-12
+PH701,46-60,53,67,Female,North,Non-Smoker,Never,21.9,120.0,False,False,230.6,84.0,2025-08-04
+PH702,46-60,59,72,Female,North,Non-Smoker,Weekly,22.7,108.6,False,False,181.4,77.5,2022-09-23
+PH703,26-35,29,83,Female,North,Non-Smoker,Weekly,24.9,85.0,False,False,171.8,121.3,2026-08-13
+PH704,26-35,29,91,Female,West,Non-Smoker,Rarely,33.9,104.1,False,False,173.4,94.3,2026-01-26
+PH705,26-35,26,61,Male,West,Non-Smoker,Daily,22.7,105.6,False,False,203.4,77.0,2025-04-18
+PH706,46-60,56,78,Male,East,Non-Smoker,Daily,21.7,114.5,False,False,164.9,84.0,2025-10-16
+PH707,18-25,18,74,Female,North,Former Smoker,Weekly,22.5,122.4,False,False,124.0,83.8,2025-09-05
+PH708,46-60,56,91,Male,West,Non-Smoker,Rarely,32.5,128.9,False,False,173.6,100.8,2026-01-06
+PH709,46-60,50,47,Male,South,Smoker,Weekly,16.0,111.5,False,False,217.8,77.7,2024-08-21
+PH710,46-60,49,62,Male,West,Non-Smoker,Rarely,21.3,111.2,False,False,200.0,55.0,2024-03-24
+PH711,60+,64,111,Female,South,Former Smoker,Rarely,37.3,140.7,False,True,194.0,115.5,2024-12-18
+PH712,46-60,53,88,Female,West,Non-Smoker,Rarely,28.0,111.5,False,False,224.6,98.6,2023-10-24
+PH713,60+,67,90,Female,West,Non-Smoker,Never,22.1,115.7,False,True,204.9,108.1,2022-08-03
+PH714,60+,69,77,Male,North,Smoker,Rarely,25.3,111.4,False,False,191.1,117.5,2026-06-03
+PH715,60+,80,84,Male,East,Former Smoker,Rarely,26.1,139.7,False,False,188.7,98.6,2025-04-27
+PH716,60+,72,67,Female,South,Non-Smoker,Rarely,29.1,128.5,False,False,203.3,116.4,2025-05-07
+PH717,46-60,53,92,Male,South,Non-Smoker,Rarely,33.2,114.4,True,True,169.1,89.7,2023-05-01
+PH718,46-60,51,96,Female,South,Former Smoker,Rarely,27.4,115.8,False,False,184.9,108.6,2025-08-29
+PH719,26-35,34,76,Female,East,Smoker,Never,24.4,118.5,False,False,193.9,80.2,2024-06-19
+PH720,46-60,58,42,Male,South,Non-Smoker,Weekly,27.8,116.5,False,True,140.4,81.4,2022-05-13
+PH721,26-35,27,73,Male,East,Non-Smoker,Rarely,22.6,100.5,False,False,165.2,81.7,2026-07-14
+PH722,60+,81,77,Male,East,Non-Smoker,Weekly,20.2,112.4,False,False,178.1,113.8,2026-09-16
+PH723,60+,75,42,Female,West,Non-Smoker,Rarely,18.1,120.0,False,False,210.8,91.1,2026-02-18
+PH724,26-35,26,65,Female,West,Non-Smoker,Weekly,17.9,98.5,False,False,113.0,99.8,2024-04-03
+PH725,60+,71,42,Male,North,Smoker,Rarely,21.7,116.1,False,False,184.2,81.7,2023-02-09
+PH726,18-25,25,69,Female,West,Non-Smoker,Rarely,20.6,89.5,False,False,153.9,96.7,2022-01-20
+PH727,60+,67,83,Male,North,Non-Smoker,Never,28.0,122.8,False,False,218.0,91.7,2025-07-01
+PH728,18-25,23,42,Male,East,Smoker,Weekly,19.5,103.8,False,False,174.2,82.3,2026-03-25
+PH729,46-60,51,50,Female,South,Non-Smoker,Rarely,16.0,104.3,False,False,221.3,83.2,2022-06-30
+PH730,60+,62,74,Male,East,Former Smoker,Rarely,21.4,117.5,False,False,199.9,100.4,2025-04-01
+PH731,60+,67,77,Male,East,Smoker,Never,24.7,130.6,True,False,185.6,100.3,2025-09-08
+PH732,46-60,46,77,Female,West,Non-Smoker,Never,24.2,120.7,False,False,185.8,80.0,2022-02-18
+PH733,60+,80,86,Male,South,Non-Smoker,Weekly,30.9,134.0,False,True,189.1,121.8,2026-08-19
+PH734,60+,70,49,Female,West,Non-Smoker,Weekly,21.9,115.3,False,False,208.9,119.0,2022-10-23
+PH735,26-35,32,92,Male,South,Non-Smoker,Daily,28.2,106.1,False,False,141.7,85.3,2025-04-20
+PH736,60+,63,99,Male,North,Non-Smoker,Never,26.6,108.3,False,False,164.9,71.0,2023-09-22
+PH737,60+,67,84,Male,South,Smoker,Weekly,24.3,115.5,True,False,209.4,103.4,2026-08-28
+PH738,36-45,40,48,Male,East,Non-Smoker,Rarely,22.0,109.8,False,False,208.7,81.5,2022-01-28
+PH739,60+,68,60,Male,East,Non-Smoker,Rarely,25.3,111.4,False,False,126.4,95.6,2024-03-28
+PH740,60+,79,56,Male,West,Non-Smoker,Weekly,21.3,121.0,False,False,225.7,102.4,2026-09-10
+PH741,60+,73,59,Female,North,Smoker,Daily,25.2,113.8,False,False,195.9,91.7,2023-04-21
+PH742,60+,69,70,Male,South,Non-Smoker,Daily,23.5,100.7,False,False,133.6,91.1,2024-07-13
+PH743,60+,61,67,Male,West,Smoker,Rarely,21.5,127.1,False,False,107.1,88.9,2024-02-10
+PH744,36-45,36,69,Male,South,Non-Smoker,Weekly,28.7,108.6,True,False,138.2,117.7,2023-11-14
+PH745,60+,72,86,Male,North,Non-Smoker,Daily,26.3,112.8,False,False,190.2,100.4,2025-08-24
+PH746,36-45,42,76,Male,West,Non-Smoker,Rarely,23.6,99.4,False,False,175.2,70.8,2025-05-22
+PH747,46-60,54,69,Female,South,Smoker,Weekly,25.1,123.7,False,False,210.8,76.3,2024-06-20
+PH748,36-45,39,76,Male,West,Smoker,Never,26.3,130.9,True,True,173.9,94.9,2026-09-26
+PH749,36-45,39,46,Female,West,Non-Smoker,Weekly,20.9,104.0,False,False,141.7,67.6,2024-03-26
+PH750,26-35,28,70,Female,West,Smoker,Daily,24.8,109.1,False,False,172.0,64.6,2025-10-12
+PH751,60+,83,65,Male,East,Non-Smoker,Daily,21.9,133.3,False,False,190.3,105.3,2024-11-28
+PH752,26-35,28,62,Male,West,Non-Smoker,Weekly,20.5,85.2,False,False,174.9,91.9,2025-10-21
+PH753,18-25,23,55,Male,West,Non-Smoker,Weekly,17.7,123.0,False,False,141.2,70.8,2026-03-16
+PH754,60+,81,73,Female,South,Smoker,Rarely,24.0,152.6,False,False,226.4,102.9,2023-01-28
+PH755,46-60,55,77,Male,North,Former Smoker,Weekly,27.2,88.2,False,False,168.5,100.4,2023-06-08
+PH756,46-60,47,66,Female,South,Non-Smoker,Weekly,21.6,110.2,False,False,152.0,96.4,2023-06-07
+PH757,60+,68,120,Female,East,Former Smoker,Weekly,35.4,120.2,True,False,185.1,121.8,2024-04-24
+PH758,36-45,44,82,Female,East,Non-Smoker,Weekly,28.2,112.8,False,False,213.4,57.6,2024-05-02
+PH759,26-35,26,99,Female,North,Non-Smoker,Never,32.2,109.2,False,False,178.0,95.1,2022-01-07
+PH760,60+,67,80,Other,East,Non-Smoker,Daily,27.8,130.8,False,False,171.4,109.0,2026-04-02
+PH761,26-35,29,93,Male,North,Non-Smoker,Never,34.5,115.3,False,False,211.5,96.6,2026-01-30
+PH762,46-60,55,68,Male,East,Former Smoker,Weekly,21.5,103.4,False,False,239.0,89.6,2024-11-08
+PH763,60+,82,44,Male,East,Smoker,Daily,16.0,117.7,False,False,197.8,98.0,2023-06-15
+PH764,60+,81,71,Female,East,Non-Smoker,Weekly,22.6,127.2,False,False,224.0,97.7,2025-12-04
+PH765,36-45,42,80,Female,South,Smoker,Daily,26.8,104.0,False,False,219.9,116.8,2023-04-16
+PH766,60+,71,75,Female,South,Former Smoker,Rarely,26.4,103.7,False,False,173.6,116.9,2023-06-15
+PH767,46-60,59,72,Male,East,Non-Smoker,Weekly,25.7,139.8,False,False,186.2,94.4,2026-09-26
+PH768,46-60,50,83,Female,East,Non-Smoker,Weekly,30.0,111.8,False,False,151.6,97.8,2026-05-22
+PH769,26-35,27,63,Female,West,Non-Smoker,Rarely,27.1,108.5,False,False,170.2,55.0,2024-10-10
+PH770,36-45,43,91,Female,South,Former Smoker,Rarely,29.2,111.8,True,False,166.5,93.0,2022-10-21
+PH771,60+,62,70,Female,South,Smoker,Never,22.8,125.4,False,True,181.7,72.2,2022-08-02
+PH772,60+,85,73,Male,South,Non-Smoker,Never,22.1,141.8,False,True,169.3,99.9,2023-04-06
+PH773,18-25,18,89,Male,East,Former Smoker,Rarely,32.6,118.3,False,False,171.4,99.8,2025-03-27
+PH774,60+,66,98,Female,North,Smoker,Rarely,25.9,106.3,True,False,213.1,108.5,2023-09-05
+PH775,60+,75,64,Male,South,Non-Smoker,Rarely,22.9,104.9,False,False,184.4,116.5,2024-05-11
+PH776,60+,82,57,Male,North,Non-Smoker,Weekly,21.9,116.9,False,False,136.8,95.2,2026-09-06
+PH777,46-60,46,58,Male,East,Non-Smoker,Rarely,22.8,108.9,False,False,156.5,123.2,2024-10-25
+PH778,26-35,26,49,Male,West,Non-Smoker,Daily,21.5,86.4,False,False,126.4,86.2,2024-01-17
+PH779,36-45,36,73,Female,West,Non-Smoker,Rarely,20.1,116.0,False,False,177.6,63.1,2023-12-22
+PH780,60+,75,72,Female,South,Smoker,Never,20.4,109.2,False,True,208.8,83.4,2023-02-04
+PH781,60+,77,76,Male,North,Smoker,Daily,23.7,140.7,False,True,206.6,91.6,2024-08-22
+PH782,60+,61,60,Male,North,Smoker,Rarely,23.0,139.3,False,True,170.9,101.5,2024-09-14
+PH783,26-35,26,118,Male,North,Non-Smoker,Never,31.4,110.4,False,False,187.6,83.2,2022-06-14
+PH784,26-35,26,72,Female,West,Non-Smoker,Weekly,25.7,113.5,False,False,160.8,84.5,2023-12-03
+PH785,46-60,50,73,Female,West,Smoker,Weekly,25.6,104.7,False,False,160.4,91.7,2025-01-23
+PH786,46-60,58,84,Female,East,Non-Smoker,Never,23.6,122.8,False,False,203.4,86.1,2022-04-06
+PH787,18-25,20,85,Male,North,Non-Smoker,Never,26.2,101.9,False,False,195.3,100.6,2026-08-20
+PH788,60+,64,102,Male,North,Non-Smoker,Daily,26.0,107.6,False,False,214.2,107.4,2026-02-01
+PH789,46-60,55,85,Male,West,Former Smoker,Weekly,27.8,115.3,False,True,169.6,116.0,2025-01-09
+PH790,18-25,18,70,Female,South,Non-Smoker,Rarely,25.1,100.8,False,False,203.4,81.4,2022-01-28
+PH791,18-25,24,79,Male,North,Non-Smoker,Weekly,29.0,107.2,False,False,163.4,111.6,2024-06-17
+PH792,46-60,48,55,Female,North,Smoker,Weekly,24.5,127.3,False,False,208.5,71.6,2026-04-07
+PH793,60+,67,79,Female,South,Non-Smoker,Daily,27.8,113.2,False,False,176.5,80.4,2022-02-09
+PH794,60+,74,78,Male,East,Former Smoker,Daily,22.7,138.8,False,False,180.9,76.9,2025-10-05
+PH795,46-60,47,54,Male,West,Non-Smoker,Weekly,16.9,92.9,False,False,102.9,80.5,2025-12-26
+PH796,36-45,38,79,Male,South,Non-Smoker,Rarely,26.6,130.5,False,False,170.8,111.0,2022-05-12
+PH797,60+,83,73,Male,East,Non-Smoker,Rarely,28.5,115.7,False,False,199.9,96.7,2023-02-04
+PH798,46-60,49,85,Male,North,Non-Smoker,Rarely,27.9,116.8,False,False,173.2,90.2,2026-04-30
+PH799,36-45,39,89,Female,North,Non-Smoker,Weekly,26.3,107.3,False,False,228.4,89.4,2025-08-29
+PH800,46-60,48,72,Male,North,Non-Smoker,Weekly,23.0,108.9,False,False,145.9,98.4,2024-06-30
+PH801,18-25,18,65,Male,West,Former Smoker,Daily,21.4,111.8,False,True,150.2,73.6,2024-11-10
+PH802,36-45,38,71,Female,East,Non-Smoker,Daily,26.8,129.4,False,False,154.1,85.3,2024-06-28
+PH803,46-60,53,87,Female,West,Smoker,Weekly,26.3,132.8,False,False,178.3,75.6,2024-09-28
+PH804,60+,80,42,Male,North,Non-Smoker,Daily,22.1,116.5,False,False,217.5,86.9,2025-08-29
+PH805,60+,68,91,Female,North,Smoker,Daily,29.2,128.2,True,False,244.2,121.1,2022-03-28
+PH806,60+,71,86,Female,West,Non-Smoker,Daily,20.8,108.7,False,False,164.2,92.9,2022-12-30
+PH807,46-60,55,55,Female,North,Non-Smoker,Rarely,23.0,103.7,False,False,160.7,80.3,2022-04-14
+PH808,18-25,25,93,Female,North,Non-Smoker,Rarely,32.4,101.1,False,False,149.2,117.3,2025-10-12
+PH809,36-45,44,90,Male,East,Smoker,Never,30.3,115.6,True,False,232.4,91.1,2025-06-15
+PH810,60+,85,66,Female,East,Smoker,Rarely,24.0,129.5,False,False,233.9,120.7,2022-04-03
+PH811,18-25,21,87,Male,North,Smoker,Weekly,25.7,89.2,False,False,179.2,108.9,2022-07-03
+PH812,60+,77,80,Female,South,Former Smoker,Daily,25.5,122.2,True,False,152.4,100.7,2023-04-05
+PH813,60+,64,48,Female,East,Non-Smoker,Weekly,16.0,128.2,False,False,139.0,60.3,2023-02-24
+PH814,36-45,37,68,Male,South,Smoker,Daily,20.7,123.1,False,False,186.6,118.2,2024-06-19
+PH815,60+,70,72,Male,South,Smoker,Weekly,24.3,116.4,False,False,213.0,102.3,2024-05-14
+PH816,60+,74,102,Female,North,Non-Smoker,Weekly,23.0,104.6,False,False,129.7,90.6,2023-09-13
+PH817,18-25,20,77,Female,South,Non-Smoker,Weekly,25.5,111.9,False,False,162.6,101.7,2022-10-12
+PH818,18-25,25,89,Male,West,Non-Smoker,Weekly,29.2,85.7,False,False,223.2,104.6,2025-01-31
+PH819,60+,63,55,Female,East,Non-Smoker,Rarely,24.1,130.0,False,False,178.9,114.4,2025-10-01
+PH820,60+,85,58,Female,West,Former Smoker,Rarely,21.4,119.3,False,False,231.1,85.5,2025-01-15
+PH821,18-25,19,93,Female,North,Non-Smoker,Rarely,26.9,127.8,False,False,191.1,94.0,2025-10-31
+PH822,60+,63,59,Male,North,Non-Smoker,Rarely,24.1,98.7,False,False,154.6,77.0,2026-05-04
+PH823,26-35,27,51,Male,East,Smoker,Weekly,23.8,120.5,False,False,173.9,96.4,2025-12-31
+PH824,60+,62,70,Female,North,Former Smoker,Daily,23.6,115.9,False,False,180.4,93.4,2025-02-03
+PH825,46-60,60,125,Male,East,Former Smoker,Rarely,35.2,122.1,False,False,170.6,114.9,2022-03-27
+PH826,18-25,24,48,Female,West,Non-Smoker,Weekly,16.0,85.3,False,False,134.4,71.8,2023-08-04
+PH827,60+,64,65,Male,South,Non-Smoker,Weekly,22.9,123.6,True,False,226.0,89.3,2024-01-12
+PH828,60+,78,55,Female,East,Smoker,Weekly,24.5,132.7,False,False,173.3,85.6,2025-05-20
+PH829,60+,76,74,Male,East,Non-Smoker,Never,23.4,140.5,False,False,218.9,108.4,2026-01-08
+PH830,18-25,19,95,Male,North,Non-Smoker,Rarely,29.3,120.6,False,False,163.6,115.1,2025-01-15
+PH831,26-35,34,63,Female,West,Non-Smoker,Weekly,27.9,106.1,False,False,178.7,85.7,2023-09-22
+PH832,26-35,34,87,Female,North,Non-Smoker,Rarely,25.3,99.5,True,False,192.0,98.4,2025-09-27
+PH833,46-60,48,77,Female,West,Non-Smoker,Weekly,23.4,97.9,False,False,162.1,96.8,2025-04-21
+PH834,26-35,27,83,Female,East,Non-Smoker,Weekly,24.0,123.8,False,False,188.2,86.8,2025-10-15
+PH835,60+,76,77,Female,North,Non-Smoker,Weekly,24.1,112.8,False,False,132.2,74.6,2024-10-18
+PH836,60+,70,78,Female,East,Non-Smoker,Weekly,24.2,136.0,False,False,199.8,76.8,2025-01-26
+PH837,60+,72,79,Male,North,Non-Smoker,Rarely,24.7,126.5,False,False,119.7,85.9,2023-08-26
+PH838,26-35,31,85,Female,East,Non-Smoker,Daily,25.6,113.6,False,False,169.2,57.8,2023-11-25
+PH839,18-25,18,65,Female,West,Non-Smoker,Rarely,28.7,105.4,False,False,198.6,112.8,2023-04-25
+PH840,60+,79,46,Male,West,Smoker,Weekly,19.3,128.7,False,False,212.3,96.6,2023-03-22
+PH841,36-45,37,56,Male,West,Non-Smoker,Rarely,21.1,107.9,False,False,135.9,84.0,2025-02-05
+PH842,60+,62,53,Female,South,Non-Smoker,Rarely,18.2,108.6,False,False,144.7,55.0,2023-10-28
+PH843,60+,79,91,Male,East,Non-Smoker,Rarely,29.1,133.9,False,True,177.3,78.4,2022-08-20
+PH844,18-25,20,82,Female,South,Non-Smoker,Rarely,26.6,106.1,False,False,178.1,88.9,2022-03-02
+PH845,18-25,18,99,Other,West,Smoker,Never,28.8,103.1,False,False,128.0,121.5,2026-01-31
+PH846,18-25,18,64,Female,South,Non-Smoker,Weekly,18.5,107.2,False,False,162.1,65.9,2024-01-25
+PH847,26-35,28,86,Male,West,Non-Smoker,Rarely,33.0,114.3,True,False,192.1,113.3,2024-09-26
+PH848,18-25,21,70,Male,South,Smoker,Rarely,22.9,113.4,False,False,171.0,76.5,2026-04-19
+PH849,60+,73,66,Male,East,Non-Smoker,Weekly,25.2,116.4,False,False,204.5,99.4,2022-07-13
+PH850,46-60,59,81,Male,North,Non-Smoker,Weekly,28.1,106.5,False,False,194.6,118.0,2026-06-14
+PH851,60+,84,63,Female,East,Non-Smoker,Weekly,20.4,139.7,False,False,172.7,88.5,2025-05-04
+PH852,60+,72,42,Female,North,Non-Smoker,Weekly,22.2,135.7,False,False,131.6,83.5,2025-01-15
+PH853,60+,83,102,Male,North,Non-Smoker,Weekly,25.3,134.0,True,False,197.1,122.1,2024-01-18
+PH854,26-35,34,117,Male,South,Non-Smoker,Weekly,36.5,115.3,False,False,163.0,107.6,2025-05-09
+PH855,36-45,37,73,Female,South,Non-Smoker,Rarely,26.8,109.3,False,False,162.9,109.4,2022-12-20
+PH856,60+,75,120,Male,East,Former Smoker,Daily,31.5,142.2,False,False,211.5,98.2,2023-06-08
+PH857,26-35,34,86,Female,South,Non-Smoker,Rarely,30.6,110.9,False,False,222.3,119.1,2026-07-25
+PH858,18-25,21,78,Male,North,Non-Smoker,Weekly,26.0,100.6,False,False,171.5,92.5,2023-04-24
+PH859,60+,63,59,Female,South,Non-Smoker,Rarely,21.3,136.1,False,False,197.2,97.1,2025-06-01
+PH860,60+,72,107,Male,South,Non-Smoker,Daily,29.0,123.6,True,False,153.5,105.9,2026-06-02
+PH861,60+,83,53,Female,East,Non-Smoker,Weekly,18.2,138.1,False,False,191.8,82.7,2024-10-25
+PH862,60+,81,94,Male,East,Non-Smoker,Daily,31.2,113.1,True,True,198.1,109.3,2023-06-01
+PH863,26-35,26,92,Female,North,Non-Smoker,Rarely,26.3,114.9,True,False,209.1,83.3,2026-01-11
+PH864,60+,70,51,Male,East,Smoker,Weekly,16.0,139.0,False,True,172.6,98.5,2025-12-03
+PH865,60+,75,74,Male,East,Non-Smoker,Never,25.3,122.3,False,True,183.8,96.1,2024-08-01
+PH866,60+,65,94,Female,West,Smoker,Weekly,27.2,120.9,False,False,229.1,77.4,2022-07-19
+PH867,60+,73,96,Male,East,Non-Smoker,Weekly,23.5,107.2,False,False,185.2,70.8,2024-02-05
+PH868,60+,74,85,Male,West,Non-Smoker,Weekly,27.5,135.4,False,True,161.9,76.3,2024-01-19
+PH869,46-60,48,67,Male,North,Former Smoker,Rarely,22.2,103.6,False,False,248.9,97.9,2022-11-25
+PH870,18-25,20,58,Male,East,Smoker,Weekly,19.0,103.6,False,False,143.6,60.3,2023-11-29
+PH871,46-60,49,85,Male,North,Non-Smoker,Weekly,24.2,100.3,False,False,178.4,96.3,2022-09-23
+PH872,26-35,31,67,Female,North,Non-Smoker,Daily,24.6,126.3,False,False,184.1,90.5,2025-04-15
+PH873,18-25,25,66,Male,West,Smoker,Daily,23.0,121.9,False,False,187.9,83.8,2024-01-20
+PH874,26-35,26,70,Female,South,Non-Smoker,Daily,29.7,111.5,False,False,173.4,101.5,2025-06-20
+PH875,60+,65,58,Female,East,Smoker,Never,23.1,107.8,False,False,189.3,96.1,2024-03-01
+PH876,46-60,52,71,Male,East,Smoker,Weekly,25.8,135.9,False,False,186.6,55.0,2025-05-22
+PH877,46-60,54,73,Female,East,Non-Smoker,Daily,24.8,111.7,False,False,151.4,88.9,2025-06-25
+PH878,60+,68,75,Female,North,Non-Smoker,Never,20.2,103.8,False,False,242.2,96.3,2022-10-05
+PH879,46-60,55,60,Female,North,Non-Smoker,Daily,19.0,92.0,False,False,169.8,109.8,2024-02-06
+PH880,46-60,60,64,Male,North,Smoker,Weekly,24.6,113.1,False,False,211.2,120.0,2025-07-24
+PH881,18-25,23,90,Male,West,Smoker,Rarely,33.8,101.3,False,False,183.3,80.0,2024-10-25
+PH882,60+,75,104,Male,North,Smoker,Never,29.1,121.3,False,False,195.3,99.7,2023-01-20
+PH883,46-60,48,63,Female,East,Non-Smoker,Rarely,18.3,117.0,False,True,160.0,59.1,2025-12-14
+PH884,26-35,28,48,Other,South,Non-Smoker,Weekly,16.0,97.3,False,False,119.6,97.7,2022-12-13
+PH885,60+,73,83,Female,North,Non-Smoker,Never,29.8,129.0,True,False,190.8,120.6,2026-09-19
+PH886,60+,67,83,Male,South,Non-Smoker,Daily,24.1,110.9,False,False,175.0,100.8,2025-05-10
+PH887,18-25,21,81,Female,North,Smoker,Never,31.5,115.6,False,False,221.9,99.1,2023-07-14
+PH888,26-35,31,69,Male,North,Former Smoker,Rarely,22.1,128.3,False,False,137.9,105.4,2022-12-04
+PH889,18-25,19,112,Female,North,Smoker,Never,28.2,107.8,False,False,168.3,109.3,2026-04-13
+PH890,36-45,36,85,Male,West,Smoker,Weekly,28.1,120.6,False,False,165.1,112.1,2024-06-26
+PH891,18-25,24,60,Female,East,Smoker,Daily,22.6,91.4,False,False,219.9,90.8,2025-10-29
+PH892,60+,66,75,Female,West,Former Smoker,Rarely,24.0,135.2,False,False,161.6,90.0,2025-12-13
+PH893,46-60,53,68,Male,South,Non-Smoker,Weekly,24.6,110.1,False,False,197.8,104.8,2022-04-28
+PH894,60+,84,65,Male,North,Non-Smoker,Weekly,26.8,137.3,True,False,222.7,115.6,2025-03-31
+PH895,60+,68,88,Female,East,Former Smoker,Never,26.9,120.0,False,False,186.0,97.2,2026-04-23
+PH896,46-60,59,102,Male,West,Smoker,Rarely,29.6,130.7,False,False,161.6,96.8,2023-01-15
+PH897,46-60,52,65,Female,East,Former Smoker,Weekly,22.9,121.0,False,False,141.4,107.4,2022-02-28
+PH898,18-25,21,53,Female,North,Smoker,Weekly,18.9,99.8,False,False,198.1,102.7,2025-02-26
+PH899,18-25,22,84,Female,South,Non-Smoker,Daily,32.8,125.2,False,False,145.8,87.5,2024-08-15
+PH900,46-60,59,64,Male,West,Non-Smoker,Daily,22.0,106.5,False,False,192.0,86.7,2024-08-20
+PH901,18-25,18,60,Male,East,Non-Smoker,Daily,22.1,112.1,False,False,170.0,87.1,2023-04-02
+PH902,18-25,20,65,Male,West,Former Smoker,Rarely,25.5,102.5,False,False,182.2,94.7,2024-05-08
+PH903,26-35,32,98,Female,East,Smoker,Rarely,25.8,117.2,False,False,199.3,82.6,2026-07-30
+PH904,60+,78,73,Male,North,Former Smoker,Weekly,23.2,116.1,False,False,163.0,124.9,2025-08-17
+PH905,46-60,49,78,Male,West,Non-Smoker,Weekly,24.4,114.6,False,False,153.1,98.5,2026-09-04
+PH906,60+,66,84,Male,West,Non-Smoker,Rarely,25.3,107.7,False,False,207.5,105.2,2023-08-01
+PH907,36-45,45,87,Female,East,Former Smoker,Rarely,26.5,117.4,False,False,164.0,120.8,2026-02-17
+PH908,26-35,29,47,Male,West,Smoker,Never,16.8,105.8,False,True,97.3,69.5,2023-10-26
+PH909,36-45,43,100,Female,North,Former Smoker,Weekly,32.7,113.1,False,False,206.5,101.9,2026-06-11
+PH910,18-25,24,71,Female,West,Non-Smoker,Rarely,24.9,106.8,False,False,143.2,68.5,2026-02-10
+PH911,60+,70,85,Female,North,Non-Smoker,Weekly,26.9,123.4,False,False,203.9,97.9,2022-10-13
+PH912,26-35,30,58,Female,West,Smoker,Weekly,18.7,100.4,False,False,216.0,57.0,2026-08-13
+PH913,36-45,43,66,Female,North,Non-Smoker,Rarely,23.5,110.2,False,False,177.7,100.7,2024-11-19
+PH914,60+,84,53,Female,East,Non-Smoker,Weekly,21.7,110.6,False,False,217.3,102.0,2025-09-08
+PH915,46-60,58,93,Male,West,Non-Smoker,Weekly,30.7,147.4,True,False,195.4,99.3,2024-10-01
+PH916,46-60,49,63,Female,North,Smoker,Weekly,22.0,126.8,False,False,232.0,87.0,2023-01-12
+PH917,46-60,54,62,Female,North,Non-Smoker,Weekly,27.7,121.1,False,False,156.4,109.5,2026-09-04
+PH918,60+,71,70,Female,West,Former Smoker,Weekly,22.1,131.2,False,False,185.1,76.4,2022-07-15
+PH919,26-35,35,80,Female,North,Smoker,Rarely,23.6,90.7,False,False,203.4,90.9,2025-11-03
+PH920,60+,61,96,Female,East,Non-Smoker,Weekly,23.5,88.5,False,False,178.2,103.8,2022-12-29
+PH921,60+,77,85,Female,West,Former Smoker,Daily,30.2,122.1,False,False,229.4,80.2,2025-09-24
+PH922,46-60,56,48,Male,East,Smoker,Rarely,17.6,98.4,True,False,172.6,93.6,2024-01-04
+PH923,46-60,48,48,Male,South,Smoker,Weekly,19.0,109.8,False,False,241.5,58.6,2023-02-15
+PH924,26-35,27,56,Male,South,Non-Smoker,Never,18.5,105.4,False,False,225.1,76.7,2023-02-15
+PH925,26-35,34,61,Male,East,Smoker,Daily,19.9,119.4,False,False,187.7,64.6,2023-07-09
+PH926,60+,82,56,Male,East,Non-Smoker,Weekly,21.1,108.1,False,False,203.5,115.8,2026-04-12
+PH927,46-60,54,51,Male,East,Non-Smoker,Weekly,17.7,114.5,False,False,207.5,65.8,2025-08-27
+PH928,36-45,38,49,Male,North,Non-Smoker,Rarely,22.4,109.5,False,False,141.0,61.9,2025-03-09
+PH929,46-60,46,54,Female,East,Non-Smoker,Daily,16.0,110.3,False,False,132.6,80.9,2024-12-28
+PH930,46-60,57,59,Male,East,Non-Smoker,Never,22.4,109.0,False,False,216.0,84.7,2023-12-24
+PH931,46-60,54,87,Female,East,Non-Smoker,Weekly,29.5,134.8,False,False,196.0,78.3,2026-04-13
+PH932,60+,65,63,Female,North,Smoker,Weekly,26.2,121.8,True,True,191.8,106.2,2023-04-20
+PH933,26-35,35,69,Male,East,Non-Smoker,Weekly,25.3,130.3,False,False,176.9,60.5,2026-06-24
+PH934,60+,62,59,Male,East,Former Smoker,Daily,20.6,105.9,False,False,113.6,73.7,2023-10-23
+PH935,46-60,48,53,Male,North,Non-Smoker,Weekly,18.0,116.8,False,False,167.1,73.7,2023-08-16
+PH936,60+,81,62,Female,West,Non-Smoker,Weekly,19.7,118.6,False,False,164.9,104.1,2024-04-05
+PH937,26-35,28,87,Male,East,Non-Smoker,Weekly,24.3,104.5,False,False,198.7,106.8,2025-07-21
+PH938,26-35,28,95,Female,South,Smoker,Rarely,29.1,121.9,True,False,216.6,111.1,2025-05-22
+PH939,46-60,49,95,Female,East,Non-Smoker,Weekly,28.3,113.9,False,False,201.2,95.6,2025-08-22
+PH940,46-60,52,97,Female,East,Smoker,Daily,27.1,90.8,False,False,205.9,60.5,2022-06-04
+PH941,60+,64,69,Male,East,Former Smoker,Daily,21.7,85.0,False,False,140.5,97.2,2022-10-07
+PH942,36-45,45,72,Male,South,Non-Smoker,Daily,24.6,127.1,False,False,195.8,113.6,2026-01-11
+PH943,60+,80,78,Male,West,Non-Smoker,Daily,23.2,135.3,False,False,207.4,115.5,2026-08-28
+PH944,46-60,50,84,Male,West,Smoker,Rarely,24.7,138.3,False,False,226.0,99.6,2022-08-10
+PH945,26-35,26,107,Male,North,Non-Smoker,Daily,33.1,114.3,False,False,242.1,82.2,2026-04-17
+PH946,26-35,26,46,Female,East,Non-Smoker,Never,19.3,89.3,False,False,118.9,71.5,2023-04-01
+PH947,60+,84,62,Female,North,Non-Smoker,Daily,23.5,118.5,False,False,180.7,127.5,2026-08-26
+PH948,26-35,27,84,Female,South,Non-Smoker,Daily,29.6,112.2,False,False,158.2,73.8,2026-09-19
+PH949,60+,82,69,Female,West,Former Smoker,Never,20.8,109.4,False,False,192.5,76.8,2025-01-09
+PH950,36-45,36,65,Male,North,Former Smoker,Weekly,22.1,126.7,False,False,173.5,99.9,2022-11-26
+PH951,18-25,24,77,Female,South,Smoker,Weekly,22.3,133.0,False,False,172.6,76.9,2025-09-28
+PH952,36-45,38,91,Female,North,Non-Smoker,Never,25.8,117.3,False,False,207.0,74.0,2022-06-25
+PH953,46-60,59,69,Female,East,Smoker,Never,20.0,116.2,False,False,157.8,110.6,2023-08-03
+PH954,46-60,47,98,Female,South,Former Smoker,Rarely,28.3,102.4,False,False,155.3,104.4,2025-01-11
+PH955,60+,71,69,Male,East,Non-Smoker,Daily,27.3,139.5,False,False,162.9,95.5,2022-04-28
+PH956,46-60,59,84,Male,West,Non-Smoker,Weekly,26.6,119.5,False,False,176.5,80.4,2023-11-13
+PH957,36-45,45,63,Male,East,Smoker,Never,23.0,111.7,False,False,153.0,119.9,2025-10-14
+PH958,60+,61,63,Male,East,Smoker,Never,27.1,127.8,False,True,196.5,98.3,2022-06-09
+PH959,60+,84,59,Female,North,Non-Smoker,Daily,20.7,114.5,False,False,183.6,115.2,2023-09-28
+PH960,46-60,46,83,Male,North,Former Smoker,Weekly,23.4,114.0,False,False,156.2,103.3,2022-01-07
+PH961,26-35,28,106,Female,West,Non-Smoker,Weekly,33.5,99.6,False,False,208.5,93.4,2025-02-15
+PH962,36-45,45,97,Female,West,Former Smoker,Daily,25.2,125.5,False,False,178.3,84.7,2022-05-18
+PH963,60+,75,62,Male,East,Smoker,Rarely,20.5,120.1,False,False,224.6,113.7,2023-05-03
+PH964,26-35,32,102,Male,South,Non-Smoker,Weekly,25.3,122.7,False,False,170.0,111.6,2024-06-25
+PH965,60+,82,57,Female,North,Non-Smoker,Weekly,18.8,116.6,False,False,184.6,62.8,2023-01-07
+PH966,46-60,58,58,Female,West,Non-Smoker,Daily,19.5,111.1,False,False,161.9,94.9,2023-02-05
+PH967,46-60,58,49,Male,West,Non-Smoker,Weekly,20.1,99.8,False,False,178.3,85.8,2025-12-18
+PH968,36-45,39,78,Male,North,Non-Smoker,Daily,22.6,118.2,False,False,194.8,71.7,2025-09-10
+PH969,60+,80,78,Female,East,Non-Smoker,Weekly,28.4,116.3,False,False,184.6,108.9,2022-05-21
+PH970,18-25,20,73,Male,East,Smoker,Daily,26.9,105.6,False,False,197.8,69.2,2026-01-26
+PH971,36-45,38,101,Female,South,Non-Smoker,Never,28.9,114.6,False,False,159.2,89.4,2024-03-22
+PH972,46-60,46,69,Male,West,Non-Smoker,Daily,19.9,110.9,False,False,195.2,72.7,2022-09-09
+PH973,46-60,50,77,Male,North,Smoker,Weekly,22.2,96.8,False,False,171.9,81.5,2026-04-22
+PH974,46-60,50,73,Female,South,Former Smoker,Daily,25.9,113.0,False,False,206.5,93.5,2023-08-08
+PH975,26-35,28,64,Female,North,Non-Smoker,Daily,21.9,114.9,False,False,171.7,68.4,2023-07-19
+PH976,26-35,33,68,Female,East,Non-Smoker,Daily,23.3,104.5,False,False,216.1,110.6,2022-09-12
+PH977,18-25,24,87,Male,East,Non-Smoker,Daily,26.4,106.1,False,False,141.7,96.9,2026-03-17
+PH978,46-60,56,84,Other,West,Non-Smoker,Daily,23.0,116.7,True,True,139.9,118.5,2023-05-13
+PH979,36-45,41,79,Male,East,Non-Smoker,Weekly,25.4,111.3,False,False,161.6,89.5,2024-10-24
+PH980,46-60,56,124,Male,North,Former Smoker,Rarely,32.5,111.1,True,True,153.8,97.5,2023-02-19
+PH981,46-60,58,79,Male,South,Non-Smoker,Daily,23.8,115.7,False,False,144.1,119.5,2026-04-02
+PH982,60+,65,84,Male,North,Non-Smoker,Weekly,29.5,133.5,False,False,209.5,94.5,2025-09-26
+PH983,46-60,55,89,Female,East,Smoker,Weekly,26.8,109.1,False,True,195.4,94.4,2024-05-22
+PH984,60+,62,68,Male,East,Non-Smoker,Weekly,18.3,108.7,False,False,164.3,96.6,2023-08-23
+PH985,46-60,57,76,Female,West,Smoker,Weekly,19.9,100.5,False,False,177.0,68.5,2025-02-09
+PH986,60+,62,73,Male,South,Non-Smoker,Daily,21.0,125.3,False,False,164.2,100.5,2024-05-09
+PH987,46-60,59,62,Other,South,Smoker,Weekly,20.9,116.0,False,False,236.0,97.8,2026-06-20
+PH988,36-45,39,69,Male,North,Non-Smoker,Weekly,24.1,101.7,False,False,156.0,108.5,2025-03-14
+PH989,26-35,34,94,Female,South,Smoker,Never,29.3,117.8,False,False,154.0,109.5,2022-02-17
+PH990,60+,71,118,Male,South,Non-Smoker,Never,32.0,113.0,False,False,219.5,127.8,2025-11-26
+PH991,36-45,41,88,Male,West,Non-Smoker,Never,28.0,103.3,False,False,175.9,94.1,2022-12-01
+PH992,46-60,55,71,Female,West,Non-Smoker,Weekly,22.6,98.2,False,False,237.5,77.8,2024-01-27
+PH993,26-35,31,48,Female,North,Non-Smoker,Daily,16.0,90.5,False,False,149.3,107.2,2022-12-29
+PH994,46-60,47,70,Female,South,Non-Smoker,Weekly,24.8,128.7,False,True,203.9,69.3,2026-06-22
+PH995,46-60,54,71,Male,East,Non-Smoker,Weekly,24.6,107.5,False,False,212.7,72.1,2026-08-24
+PH996,46-60,60,76,Female,South,Non-Smoker,Daily,25.3,122.9,True,False,170.7,104.3,2022-09-27
+PH997,46-60,53,124,Female,North,Non-Smoker,Daily,33.3,113.1,False,False,171.8,130.8,2023-07-10
+PH998,36-45,42,85,Female,West,Smoker,Weekly,29.7,127.7,False,False,215.1,101.3,2023-10-05
+PH999,60+,83,84,Male,East,Former Smoker,Weekly,28.1,115.2,False,False,212.9,120.1,2025-03-09
+PH1000,46-60,52,53,Female,East,Smoker,Daily,20.5,115.2,False,False,147.3,56.9,2024-11-02
